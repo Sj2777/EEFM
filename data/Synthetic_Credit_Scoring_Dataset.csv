@@ -1,0 +1,1001 @@
+Profile_ID,Age,Employment_Status,Educational_Background,Bank_Account_Tenure,Residential_Stability,Rent_Payment_History,Utility_Payment_History,Telecommunications_Payment_History,Savings_Pattern,Gig_Economy_Participation,Online_Shopping_Behavior,Social_Media_Footprint,Repayment_Status
+A0001,58,Salaried,Bachelor's,Less than 1 year,Less than 1 year,Always on time,Mostly on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0002,63,Freelancer,Bachelor's,Less than 1 year,1–3 years,Frequently late,Always on time,Mostly on time,Some savings,None,Frequent,Low,Default
+A0003,39,Salaried,Diploma,1–2 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,Full-Time,Frequent,Medium,Paid on Time
+A0004,41,Self-employed,Bachelor's,No bank account,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0005,41,Salaried,Bachelor's,2–5 years,More than 3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Frequent,Low,Paid on Time
+A0006,38,Student,Bachelor's,Less than 1 year,Less than 1 year,Always on time,Always on time,Always on time,Little or no savings,Full-Time,Frequent,Medium,Paid on Time
+A0007,43,Student,Bachelor's,Less than 1 year,Less than 1 year,Mostly on time,Always on time,Mostly on time,Some savings,None,Occasional,Low,Paid on Time
+A0008,21,Student,High School,Less than 1 year,More than 3 years,Mostly on time,Always on time,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0009,61,Freelancer,Bachelor's,2–5 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,Full-Time,None,Medium,Paid on Time
+A0010,24,Student,Diploma,2–5 years,1–3 years,Always on time,Mostly on time,Always on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0011,19,Salaried,Diploma,More than 5 years,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Low,Paid on Time
+A0012,60,Self-employed,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,None,Frequent,Low,Paid on Time
+A0013,59,Salaried,Master's,1–2 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0014,39,Salaried,High School,2–5 years,1–3 years,Always on time,Frequently late,Always on time,Some savings,Part-Time,Occasional,High,Paid on Time
+A0015,24,Freelancer,Diploma,1–2 years,More than 3 years,Always on time,Mostly on time,Always on time,Regular savings,Part-Time,Occasional,High,Paid on Time
+A0016,26,Self-employed,Diploma,Less than 1 year,More than 3 years,Always on time,Frequently late,Always on time,Regular savings,Full-Time,Occasional,Low,Paid on Time
+A0017,33,Salaried,Bachelor's,Less than 1 year,1–3 years,Always on time,Always on time,No payment history,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0018,53,Freelancer,Bachelor's,Less than 1 year,1–3 years,Always on time,Mostly on time,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0019,51,Salaried,PhD,Less than 1 year,Less than 1 year,Mostly on time,Mostly on time,Always on time,Regular savings,Full-Time,Frequent,Medium,Paid on Time
+A0020,55,Self-employed,Diploma,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,None,Low,Paid on Time
+A0021,18,Self-employed,Other,More than 5 years,Less than 1 year,Always on time,Always on time,Frequently late,Little or no savings,Full-Time,Occasional,High,Paid on Time
+A0022,57,Other,Master's,2–5 years,More than 3 years,Mostly on time,Frequently late,Always on time,Little or no savings,None,None,Medium,Default
+A0023,27,Salaried,Bachelor's,2–5 years,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,Part-Time,Frequent,Medium,Paid on Time
+A0024,26,Freelancer,Diploma,2–5 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,Full-Time,Occasional,Low,Paid on Time
+A0025,55,Self-employed,Bachelor's,No bank account,1–3 years,Frequently late,No payment history,Always on time,Some savings,Part-Time,Occasional,Medium,Default
+A0026,57,Freelancer,Master's,Less than 1 year,Less than 1 year,Mostly on time,Always on time,Always on time,Regular savings,Full-Time,Occasional,Medium,Paid on Time
+A0027,60,Student,Master's,1–2 years,More than 3 years,Always on time,Frequently late,Mostly on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0028,19,Freelancer,Diploma,1–2 years,Less than 1 year,Mostly on time,Always on time,Always on time,Some savings,Part-Time,Frequent,High,Paid on Time
+A0029,34,Salaried,PhD,1–2 years,Less than 1 year,Always on time,Mostly on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0030,18,Self-employed,Master's,2–5 years,More than 3 years,Mostly on time,Always on time,Always on time,Little or no savings,Full-Time,Occasional,Medium,Paid on Time
+A0031,25,Freelancer,Diploma,1–2 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Full-Time,Occasional,Low,Paid on Time
+A0032,53,Student,Diploma,Less than 1 year,More than 3 years,Mostly on time,Always on time,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0033,65,Salaried,High School,2–5 years,1–3 years,Always on time,Mostly on time,Mostly on time,Some savings,None,Frequent,High,Paid on Time
+A0034,22,Self-employed,Master's,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,Full-Time,None,Low,Paid on Time
+A0035,45,Salaried,Master's,2–5 years,1–3 years,Mostly on time,Frequently late,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0036,46,Self-employed,Bachelor's,2–5 years,More than 3 years,Always on time,Frequently late,Mostly on time,Some savings,None,Frequent,Medium,Paid on Time
+A0037,51,Self-employed,High School,1–2 years,More than 3 years,Always on time,Always on time,Frequently late,Regular savings,None,Occasional,High,Paid on Time
+A0038,39,Self-employed,Bachelor's,Less than 1 year,1–3 years,Frequently late,Always on time,Mostly on time,Little or no savings,Part-Time,Occasional,High,Default
+A0039,40,Salaried,Diploma,More than 5 years,More than 3 years,Always on time,Mostly on time,Mostly on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0040,43,Freelancer,Master's,More than 5 years,More than 3 years,Always on time,Frequently late,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0041,29,Salaried,Diploma,Less than 1 year,1–3 years,Mostly on time,Always on time,Mostly on time,Little or no savings,None,Frequent,High,Default
+A0042,40,Salaried,High School,More than 5 years,Less than 1 year,Always on time,Always on time,Mostly on time,Some savings,None,Occasional,High,Paid on Time
+A0043,31,Self-employed,Diploma,1–2 years,1–3 years,No payment history,Mostly on time,Mostly on time,Regular savings,None,Occasional,Low,Late Payment
+A0044,42,Salaried,Bachelor's,No bank account,More than 3 years,Mostly on time,Always on time,Mostly on time,Little or no savings,Part-Time,Frequent,Low,Late Payment
+A0045,20,Salaried,Bachelor's,1–2 years,1–3 years,Always on time,Mostly on time,Mostly on time,Regular savings,Full-Time,Occasional,Low,Paid on Time
+A0046,64,Self-employed,Bachelor's,2–5 years,More than 3 years,Mostly on time,Always on time,Mostly on time,Some savings,None,Frequent,Low,Paid on Time
+A0047,35,Student,High School,1–2 years,1–3 years,Always on time,Always on time,Mostly on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0048,35,Self-employed,Bachelor's,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,High,Paid on Time
+A0049,36,Salaried,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0050,30,Salaried,Bachelor's,More than 5 years,More than 3 years,Always on time,Mostly on time,Always on time,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0051,30,Salaried,Diploma,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Full-Time,Occasional,Low,Paid on Time
+A0052,36,Self-employed,Bachelor's,Less than 1 year,Less than 1 year,Frequently late,Always on time,Mostly on time,Some savings,None,Occasional,High,Late Payment
+A0053,27,Student,PhD,Less than 1 year,1–3 years,Mostly on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0054,45,Salaried,Bachelor's,2–5 years,More than 3 years,Frequently late,Always on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0055,18,Self-employed,Bachelor's,1–2 years,Less than 1 year,Always on time,Always on time,Mostly on time,Regular savings,None,Frequent,Low,Paid on Time
+A0056,30,Self-employed,Bachelor's,2–5 years,More than 3 years,Frequently late,Always on time,Always on time,Some savings,Part-Time,Occasional,Medium,Late Payment
+A0057,25,Self-employed,Diploma,1–2 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,Part-Time,Occasional,High,Paid on Time
+A0058,54,Self-employed,High School,2–5 years,More than 3 years,Mostly on time,Mostly on time,Always on time,Some savings,None,Frequent,Low,Paid on Time
+A0059,45,Freelancer,Bachelor's,Less than 1 year,1–3 years,Always on time,Mostly on time,Mostly on time,Some savings,Part-Time,Frequent,Low,Paid on Time
+A0060,47,Salaried,Diploma,Less than 1 year,More than 3 years,Frequently late,Mostly on time,Always on time,Little or no savings,None,Frequent,Medium,Default
+A0061,57,Freelancer,Bachelor's,2–5 years,1–3 years,Always on time,Frequently late,Always on time,Some savings,None,None,Medium,Paid on Time
+A0062,53,Salaried,Bachelor's,Less than 1 year,More than 3 years,Always on time,Frequently late,Always on time,Regular savings,Full-Time,Frequent,Medium,Paid on Time
+A0063,44,Student,Other,Less than 1 year,1–3 years,Always on time,Frequently late,Always on time,Little or no savings,Full-Time,Frequent,Low,Default
+A0064,50,Salaried,High School,2–5 years,More than 3 years,Mostly on time,Mostly on time,Mostly on time,Some savings,None,Frequent,Low,Paid on Time
+A0065,42,Self-employed,Diploma,Less than 1 year,More than 3 years,Mostly on time,Always on time,Mostly on time,Regular savings,Part-Time,Occasional,Low,Paid on Time
+A0066,59,Other,Bachelor's,No bank account,1–3 years,Mostly on time,Frequently late,Frequently late,Some savings,None,Occasional,Medium,Default
+A0067,44,Student,PhD,No bank account,More than 3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0068,49,Student,High School,No bank account,1–3 years,Frequently late,No payment history,Mostly on time,Some savings,None,Occasional,Low,Default
+A0069,46,Salaried,Diploma,No bank account,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0070,42,Self-employed,High School,More than 5 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,Part-Time,None,Medium,Paid on Time
+A0071,28,Salaried,PhD,More than 5 years,1–3 years,No payment history,Mostly on time,Always on time,Some savings,Full-Time,None,High,Paid on Time
+A0072,36,Other,Diploma,More than 5 years,More than 3 years,Always on time,Always on time,Mostly on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0073,36,Freelancer,High School,More than 5 years,1–3 years,Always on time,Always on time,Mostly on time,Little or no savings,Part-Time,Frequent,High,Paid on Time
+A0074,46,Salaried,Diploma,Less than 1 year,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,Full-Time,Occasional,Medium,Paid on Time
+A0075,35,Student,Diploma,More than 5 years,1–3 years,Frequently late,Mostly on time,Always on time,Regular savings,Full-Time,Frequent,Low,Paid on Time
+A0076,43,Unemployed,Master's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0077,41,Salaried,High School,No bank account,More than 3 years,Mostly on time,Frequently late,Always on time,Regular savings,Part-Time,None,Medium,Late Payment
+A0078,20,Salaried,Bachelor's,Less than 1 year,More than 3 years,Always on time,Always on time,Mostly on time,Little or no savings,Full-Time,Occasional,Medium,Paid on Time
+A0079,27,Student,Bachelor's,More than 5 years,1–3 years,Frequently late,Always on time,Mostly on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0080,59,Salaried,Diploma,Less than 1 year,Less than 1 year,Frequently late,Always on time,Mostly on time,Some savings,None,Frequent,Low,Late Payment
+A0081,33,Other,Bachelor's,Less than 1 year,More than 3 years,Mostly on time,Always on time,Mostly on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0082,26,Self-employed,Bachelor's,Less than 1 year,More than 3 years,Always on time,Always on time,Mostly on time,Some savings,None,Frequent,High,Paid on Time
+A0083,44,Self-employed,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Low,Paid on Time
+A0084,19,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Frequently late,Always on time,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0085,58,Self-employed,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Low,Paid on Time
+A0086,45,Self-employed,High School,1–2 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,Low,Paid on Time
+A0087,22,Salaried,High School,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Prefer not to say,None,Occasional,Medium,Paid on Time
+A0088,45,Student,Bachelor's,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,Low,Paid on Time
+A0089,41,Salaried,Diploma,Less than 1 year,1–3 years,Mostly on time,Mostly on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0090,35,Freelancer,Diploma,1–2 years,Less than 1 year,Frequently late,Always on time,Always on time,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0091,31,Salaried,Bachelor's,Less than 1 year,1–3 years,Always on time,Frequently late,Always on time,Little or no savings,None,Occasional,High,Paid on Time
+A0092,45,Self-employed,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0093,43,Other,High School,Less than 1 year,More than 3 years,Mostly on time,Mostly on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0094,53,Student,Master's,No bank account,More than 3 years,Always on time,Always on time,Frequently late,Little or no savings,None,Occasional,Medium,Late Payment
+A0095,44,Salaried,Bachelor's,More than 5 years,Less than 1 year,Frequently late,Always on time,Mostly on time,Some savings,None,Frequent,Medium,Late Payment
+A0096,37,Freelancer,High School,2–5 years,Less than 1 year,Mostly on time,Always on time,Always on time,Little or no savings,None,None,Medium,Paid on Time
+A0097,27,Salaried,High School,Less than 1 year,1–3 years,Mostly on time,Mostly on time,Always on time,Little or no savings,None,Occasional,Low,Default
+A0098,54,Freelancer,Other,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0099,22,Salaried,Bachelor's,No bank account,More than 3 years,Always on time,Frequently late,Mostly on time,Some savings,None,Occasional,Medium,Late Payment
+A0100,46,Unemployed,Bachelor's,Less than 1 year,1–3 years,Always on time,Frequently late,Always on time,Little or no savings,Part-Time,None,High,Default
+A0101,59,Salaried,High School,1–2 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0102,22,Salaried,Bachelor's,1–2 years,1–3 years,Frequently late,Frequently late,Always on time,Regular savings,None,Occasional,Low,Default
+A0103,37,Unemployed,Bachelor's,1–2 years,1–3 years,Frequently late,Always on time,Always on time,Little or no savings,Part-Time,Occasional,Low,Default
+A0104,51,Salaried,Bachelor's,2–5 years,Less than 1 year,Always on time,Frequently late,Always on time,Little or no savings,None,None,High,Late Payment
+A0105,36,Student,High School,2–5 years,More than 3 years,Frequently late,Always on time,Always on time,Little or no savings,None,Occasional,High,Late Payment
+A0106,28,Freelancer,High School,1–2 years,More than 3 years,No payment history,Mostly on time,Mostly on time,Little or no savings,None,Frequent,Low,Default
+A0107,48,Unemployed,High School,2–5 years,1–3 years,Always on time,Mostly on time,Mostly on time,Some savings,None,Frequent,High,Late Payment
+A0108,21,Freelancer,Master's,2–5 years,Less than 1 year,Frequently late,Frequently late,Always on time,Little or no savings,None,None,High,Default
+A0109,45,Salaried,Master's,More than 5 years,More than 3 years,Frequently late,Always on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0110,63,Freelancer,Bachelor's,Less than 1 year,1–3 years,Frequently late,Mostly on time,Always on time,Little or no savings,None,Frequent,High,Default
+A0111,34,Salaried,High School,More than 5 years,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0112,49,Self-employed,High School,2–5 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0113,41,Salaried,Bachelor's,2–5 years,More than 3 years,Mostly on time,Always on time,Always on time,Some savings,Full-Time,Frequent,High,Paid on Time
+A0114,64,Freelancer,High School,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0115,48,Freelancer,Master's,No bank account,More than 3 years,Always on time,Always on time,Always on time,Regular savings,None,None,Medium,Paid on Time
+A0116,34,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Mostly on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0117,42,Salaried,High School,2–5 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,None,None,High,Paid on Time
+A0118,38,Freelancer,Diploma,2–5 years,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,None,None,Medium,Paid on Time
+A0119,21,Salaried,Bachelor's,1–2 years,More than 3 years,Mostly on time,Frequently late,Always on time,Some savings,Part-Time,Frequent,High,Paid on Time
+A0120,42,Unemployed,High School,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0121,25,Salaried,High School,2–5 years,More than 3 years,Always on time,Mostly on time,Mostly on time,Regular savings,Part-Time,Occasional,Low,Paid on Time
+A0122,22,Self-employed,Master's,1–2 years,Less than 1 year,Mostly on time,Mostly on time,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0123,28,Freelancer,Master's,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0124,53,Salaried,Master's,No bank account,1–3 years,Mostly on time,Always on time,Always on time,Some savings,None,Frequent,Medium,Paid on Time
+A0125,22,Self-employed,Bachelor's,1–2 years,More than 3 years,Mostly on time,Mostly on time,Always on time,Prefer not to say,None,None,High,Paid on Time
+A0126,28,Salaried,Master's,Less than 1 year,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Full-Time,Frequent,Medium,Paid on Time
+A0127,57,Self-employed,Bachelor's,Less than 1 year,More than 3 years,Always on time,Mostly on time,Mostly on time,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0128,59,Freelancer,Diploma,Less than 1 year,1–3 years,Mostly on time,Always on time,Frequently late,Some savings,Part-Time,Frequent,High,Paid on Time
+A0129,61,Self-employed,Bachelor's,2–5 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,Full-Time,Frequent,Low,Paid on Time
+A0130,41,Self-employed,High School,Less than 1 year,Less than 1 year,Always on time,Always on time,Always on time,Little or no savings,Full-Time,Occasional,Low,Paid on Time
+A0131,28,Student,Master's,2–5 years,Less than 1 year,Always on time,No payment history,Always on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0132,55,Salaried,High School,1–2 years,More than 3 years,Mostly on time,Always on time,Always on time,Little or no savings,None,None,Medium,Paid on Time
+A0133,43,Salaried,Bachelor's,2–5 years,Less than 1 year,Mostly on time,Always on time,Always on time,Little or no savings,None,None,Medium,Paid on Time
+A0134,43,Salaried,Other,2–5 years,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Occasional,Low,Paid on Time
+A0135,51,Self-employed,Bachelor's,2–5 years,1–3 years,Mostly on time,Always on time,No payment history,Little or no savings,None,Frequent,Low,Late Payment
+A0136,37,Self-employed,High School,1–2 years,Less than 1 year,Always on time,Always on time,Frequently late,Little or no savings,Part-Time,Occasional,Medium,Paid on Time
+A0137,59,Student,Bachelor's,2–5 years,More than 3 years,Mostly on time,Always on time,Always on time,Some savings,Part-Time,Frequent,Medium,Paid on Time
+A0138,25,Salaried,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0139,51,Salaried,Diploma,2–5 years,1–3 years,Always on time,Always on time,Frequently late,Some savings,None,Occasional,Medium,Paid on Time
+A0140,57,Self-employed,PhD,1–2 years,1–3 years,Frequently late,No payment history,Mostly on time,Little or no savings,Part-Time,Occasional,Medium,Default
+A0141,53,Unemployed,Bachelor's,1–2 years,Less than 1 year,Mostly on time,Always on time,No payment history,Little or no savings,Full-Time,Occasional,Medium,Default
+A0142,40,Unemployed,Bachelor's,2–5 years,1–3 years,Frequently late,Always on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0143,21,Freelancer,Bachelor's,2–5 years,Less than 1 year,Always on time,Mostly on time,Always on time,Little or no savings,None,Occasional,Low,Paid on Time
+A0144,48,Self-employed,High School,More than 5 years,1–3 years,Mostly on time,Frequently late,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0145,29,Self-employed,Master's,More than 5 years,Less than 1 year,Frequently late,Mostly on time,Always on time,Little or no savings,Full-Time,Frequent,High,Default
+A0146,39,Salaried,Other,2–5 years,1–3 years,Frequently late,Frequently late,Always on time,Regular savings,None,Frequent,Medium,Late Payment
+A0147,34,Freelancer,High School,1–2 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0148,26,Self-employed,Master's,No bank account,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,Medium,Paid on Time
+A0149,33,Salaried,High School,1–2 years,1–3 years,Always on time,Frequently late,Mostly on time,Some savings,None,None,Medium,Paid on Time
+A0150,26,Self-employed,Bachelor's,More than 5 years,1–3 years,Mostly on time,Frequently late,Mostly on time,Little or no savings,Part-Time,Occasional,Medium,Late Payment
+A0151,56,Student,High School,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0152,25,Freelancer,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0153,37,Freelancer,Diploma,More than 5 years,More than 3 years,Mostly on time,Always on time,Always on time,Regular savings,Full-Time,None,High,Paid on Time
+A0154,44,Salaried,High School,2–5 years,More than 3 years,No payment history,Always on time,Frequently late,Some savings,Full-Time,Occasional,High,Paid on Time
+A0155,60,Student,High School,More than 5 years,Less than 1 year,No payment history,Always on time,Always on time,Prefer not to say,Part-Time,Occasional,Low,Paid on Time
+A0156,45,Self-employed,Master's,Less than 1 year,1–3 years,Always on time,Frequently late,Mostly on time,Regular savings,Part-Time,Occasional,Low,Paid on Time
+A0157,19,Salaried,High School,2–5 years,1–3 years,Mostly on time,Frequently late,Always on time,Regular savings,None,Occasional,Low,Paid on Time
+A0158,36,Salaried,Master's,2–5 years,1–3 years,Mostly on time,Mostly on time,Always on time,Little or no savings,Full-Time,Occasional,Medium,Paid on Time
+A0159,35,Salaried,PhD,More than 5 years,More than 3 years,Mostly on time,Always on time,Always on time,Prefer not to say,Full-Time,Occasional,Low,Paid on Time
+A0160,27,Salaried,High School,2–5 years,1–3 years,Always on time,Frequently late,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0161,51,Salaried,High School,Less than 1 year,1–3 years,Frequently late,Mostly on time,Always on time,Little or no savings,None,Frequent,Medium,Default
+A0162,30,Student,Bachelor's,2–5 years,1–3 years,Always on time,Frequently late,Always on time,Little or no savings,None,Frequent,Medium,Late Payment
+A0163,65,Other,Bachelor's,Less than 1 year,1–3 years,Always on time,Frequently late,Always on time,Little or no savings,None,Occasional,Medium,Late Payment
+A0164,49,Self-employed,Master's,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Full-Time,Occasional,High,Paid on Time
+A0165,53,Unemployed,Bachelor's,1–2 years,Less than 1 year,Always on time,Always on time,Mostly on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0166,59,Freelancer,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,Full-Time,None,Medium,Paid on Time
+A0167,22,Unemployed,Bachelor's,2–5 years,1–3 years,Frequently late,Always on time,Mostly on time,Regular savings,None,Occasional,Medium,Default
+A0168,48,Freelancer,High School,2–5 years,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0169,29,Salaried,High School,Less than 1 year,Less than 1 year,Always on time,Mostly on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0170,61,Student,High School,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,High,Paid on Time
+A0171,45,Freelancer,Diploma,More than 5 years,More than 3 years,Frequently late,Frequently late,Always on time,Little or no savings,Part-Time,Occasional,Medium,Default
+A0172,35,Student,Bachelor's,No bank account,More than 3 years,Always on time,Frequently late,Always on time,Little or no savings,Part-Time,Occasional,High,Default
+A0173,28,Self-employed,Bachelor's,More than 5 years,More than 3 years,Always on time,Always on time,Mostly on time,Little or no savings,Part-Time,Frequent,Medium,Paid on Time
+A0174,32,Student,Diploma,2–5 years,More than 3 years,Always on time,Mostly on time,Always on time,Regular savings,Full-Time,Occasional,Medium,Paid on Time
+A0175,42,Self-employed,Bachelor's,2–5 years,Less than 1 year,Mostly on time,Mostly on time,Mostly on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0176,24,Salaried,PhD,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0177,53,Salaried,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,Full-Time,None,Medium,Paid on Time
+A0178,26,Salaried,Diploma,Less than 1 year,Less than 1 year,Always on time,Always on time,Mostly on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0179,57,Salaried,High School,1–2 years,More than 3 years,Always on time,Mostly on time,Mostly on time,Some savings,None,Occasional,Low,Paid on Time
+A0180,38,Self-employed,Bachelor's,1–2 years,Less than 1 year,Always on time,Always on time,Mostly on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0181,35,Student,Diploma,Less than 1 year,1–3 years,Mostly on time,Always on time,Mostly on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0182,62,Salaried,Master's,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0183,56,Self-employed,Bachelor's,2–5 years,More than 3 years,Mostly on time,Always on time,Mostly on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0184,60,Freelancer,High School,2–5 years,1–3 years,Mostly on time,Mostly on time,Frequently late,Some savings,Part-Time,Frequent,High,Paid on Time
+A0185,32,Self-employed,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Mostly on time,Some savings,None,Frequent,High,Paid on Time
+A0186,23,Salaried,PhD,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0187,37,Salaried,Bachelor's,No bank account,1–3 years,Always on time,Mostly on time,Frequently late,Little or no savings,None,Occasional,Medium,Default
+A0188,43,Freelancer,High School,2–5 years,1–3 years,Mostly on time,Frequently late,Always on time,Some savings,None,Frequent,Medium,Paid on Time
+A0189,63,Student,High School,Less than 1 year,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Full-Time,Occasional,Medium,Paid on Time
+A0190,55,Salaried,Diploma,1–2 years,Less than 1 year,Mostly on time,Mostly on time,Frequently late,Some savings,Part-Time,Frequent,High,Late Payment
+A0191,25,Salaried,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0192,26,Salaried,Master's,2–5 years,More than 3 years,No payment history,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0193,49,Self-employed,Master's,1–2 years,Less than 1 year,Always on time,Mostly on time,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0194,53,Self-employed,Bachelor's,1–2 years,1–3 years,No payment history,Always on time,Mostly on time,Little or no savings,None,Frequent,Medium,Default
+A0195,65,Student,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Mostly on time,Some savings,Full-Time,Occasional,High,Paid on Time
+A0196,40,Student,Bachelor's,1–2 years,1–3 years,Mostly on time,Mostly on time,Mostly on time,Some savings,None,Occasional,High,Late Payment
+A0197,63,Salaried,Bachelor's,More than 5 years,1–3 years,Frequently late,Mostly on time,Always on time,Little or no savings,None,Frequent,Medium,Default
+A0198,26,Salaried,Bachelor's,More than 5 years,More than 3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0199,23,Self-employed,Bachelor's,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,Part-Time,Frequent,Low,Paid on Time
+A0200,22,Student,Diploma,More than 5 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,None,Low,Paid on Time
+A0201,61,Freelancer,High School,2–5 years,More than 3 years,Always on time,Frequently late,Always on time,Some savings,Full-Time,Occasional,Low,Paid on Time
+A0202,37,Salaried,Master's,1–2 years,More than 3 years,Always on time,Always on time,Frequently late,Regular savings,None,Frequent,Medium,Paid on Time
+A0203,32,Self-employed,High School,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0204,48,Salaried,Diploma,2–5 years,Less than 1 year,Always on time,Frequently late,Always on time,Little or no savings,Part-Time,Frequent,Low,Late Payment
+A0205,27,Salaried,Bachelor's,2–5 years,Less than 1 year,Always on time,Always on time,Mostly on time,Little or no savings,Part-Time,Occasional,High,Paid on Time
+A0206,25,Self-employed,Diploma,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0207,62,Salaried,Master's,More than 5 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,Part-Time,Occasional,High,Paid on Time
+A0208,58,Self-employed,Bachelor's,More than 5 years,More than 3 years,Frequently late,Always on time,Mostly on time,Some savings,None,Occasional,Low,Paid on Time
+A0209,22,Salaried,High School,1–2 years,Less than 1 year,Always on time,Mostly on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0210,57,Salaried,High School,No bank account,More than 3 years,No payment history,Always on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0211,37,Freelancer,Bachelor's,More than 5 years,Less than 1 year,Always on time,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0212,62,Salaried,Bachelor's,1–2 years,1–3 years,Frequently late,Always on time,Always on time,Little or no savings,Full-Time,Occasional,High,Late Payment
+A0213,19,Salaried,Bachelor's,2–5 years,1–3 years,No payment history,Mostly on time,Always on time,Some savings,None,None,High,Paid on Time
+A0214,54,Freelancer,High School,2–5 years,Less than 1 year,Frequently late,Always on time,Always on time,Some savings,Full-Time,Frequent,Low,Paid on Time
+A0215,20,Self-employed,Master's,2–5 years,1–3 years,Always on time,Always on time,Mostly on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0216,51,Other,PhD,No bank account,1–3 years,Always on time,Mostly on time,Always on time,Some savings,None,Frequent,Medium,Paid on Time
+A0217,37,Freelancer,High School,1–2 years,More than 3 years,No payment history,Mostly on time,Mostly on time,Some savings,Part-Time,Frequent,Low,Paid on Time
+A0218,58,Student,Master's,More than 5 years,Less than 1 year,Mostly on time,Mostly on time,Mostly on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0219,21,Unemployed,High School,1–2 years,Less than 1 year,Always on time,Mostly on time,Always on time,Little or no savings,None,Occasional,Medium,Late Payment
+A0220,43,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,Part-Time,Occasional,Medium,Paid on Time
+A0221,35,Salaried,PhD,Less than 1 year,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0222,25,Salaried,Master's,1–2 years,More than 3 years,Mostly on time,Always on time,Mostly on time,Regular savings,Part-Time,None,Medium,Paid on Time
+A0223,21,Freelancer,Diploma,More than 5 years,Less than 1 year,Always on time,Always on time,Mostly on time,Regular savings,None,Occasional,High,Paid on Time
+A0224,32,Salaried,Master's,1–2 years,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,None,Frequent,Low,Paid on Time
+A0225,46,Student,High School,More than 5 years,More than 3 years,Always on time,Frequently late,Always on time,Little or no savings,None,Occasional,Medium,Late Payment
+A0226,40,Salaried,High School,1–2 years,More than 3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0227,35,Salaried,Bachelor's,2–5 years,More than 3 years,Always on time,No payment history,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0228,54,Self-employed,Diploma,Less than 1 year,1–3 years,Always on time,Frequently late,Mostly on time,Regular savings,Full-Time,Occasional,Low,Late Payment
+A0229,32,Unemployed,High School,2–5 years,1–3 years,Frequently late,Frequently late,Always on time,Prefer not to say,None,Occasional,Low,Default
+A0230,29,Salaried,Bachelor's,More than 5 years,More than 3 years,Frequently late,Always on time,Mostly on time,Little or no savings,None,Occasional,High,Paid on Time
+A0231,49,Self-employed,High School,No bank account,Less than 1 year,Mostly on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0232,38,Salaried,High School,2–5 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0233,39,Salaried,High School,Less than 1 year,More than 3 years,Mostly on time,Frequently late,Always on time,Regular savings,Full-Time,Occasional,Low,Paid on Time
+A0234,55,Student,Diploma,2–5 years,1–3 years,Always on time,Always on time,Mostly on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0235,29,Self-employed,Master's,More than 5 years,1–3 years,Mostly on time,Frequently late,Always on time,Little or no savings,None,None,High,Late Payment
+A0236,63,Freelancer,Bachelor's,1–2 years,Less than 1 year,Always on time,Mostly on time,Always on time,Little or no savings,Part-Time,Frequent,Medium,Paid on Time
+A0237,44,Unemployed,Master's,1–2 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,Part-Time,Occasional,High,Paid on Time
+A0238,36,Salaried,Diploma,Less than 1 year,1–3 years,Frequently late,Always on time,Always on time,Little or no savings,Full-Time,Frequent,Low,Late Payment
+A0239,48,Freelancer,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Prefer not to say,None,Occasional,Low,Paid on Time
+A0240,37,Salaried,High School,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,High,Paid on Time
+A0241,19,Salaried,Bachelor's,More than 5 years,1–3 years,Always on time,Mostly on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0242,29,Self-employed,Diploma,1–2 years,1–3 years,Always on time,Always on time,Mostly on time,Some savings,None,Frequent,Medium,Paid on Time
+A0243,55,Salaried,High School,1–2 years,1–3 years,No payment history,Mostly on time,Frequently late,Some savings,None,Frequent,Medium,Late Payment
+A0244,54,Unemployed,Master's,2–5 years,1–3 years,Always on time,Mostly on time,Always on time,Prefer not to say,Full-Time,Occasional,High,Paid on Time
+A0245,45,Salaried,Bachelor's,Less than 1 year,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,Part-Time,Frequent,Medium,Paid on Time
+A0246,51,Self-employed,Master's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Occasional,Low,Paid on Time
+A0247,24,Self-employed,High School,1–2 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Frequent,Medium,Paid on Time
+A0248,62,Self-employed,Diploma,More than 5 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0249,49,Student,Bachelor's,More than 5 years,1–3 years,Always on time,Mostly on time,Mostly on time,Some savings,Part-Time,Occasional,High,Paid on Time
+A0250,44,Freelancer,Bachelor's,More than 5 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,None,Low,Paid on Time
+A0251,19,Salaried,Master's,Less than 1 year,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0252,33,Salaried,Bachelor's,Less than 1 year,More than 3 years,Mostly on time,Always on time,Always on time,Little or no savings,Part-Time,Occasional,Medium,Paid on Time
+A0253,42,Salaried,Master's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,None,Low,Paid on Time
+A0254,26,Freelancer,Bachelor's,No bank account,1–3 years,Frequently late,Always on time,Frequently late,Some savings,None,Occasional,Medium,Default
+A0255,34,Salaried,Diploma,2–5 years,1–3 years,Mostly on time,Always on time,No payment history,Prefer not to say,Part-Time,Occasional,Medium,Paid on Time
+A0256,48,Salaried,Other,2–5 years,More than 3 years,Always on time,Mostly on time,Frequently late,Regular savings,None,Occasional,Low,Paid on Time
+A0257,56,Self-employed,Diploma,Less than 1 year,Less than 1 year,Always on time,Always on time,Frequently late,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0258,63,Salaried,Bachelor's,2–5 years,More than 3 years,Mostly on time,Always on time,Mostly on time,Little or no savings,Full-Time,Frequent,High,Paid on Time
+A0259,26,Freelancer,Bachelor's,2–5 years,More than 3 years,Frequently late,Frequently late,Mostly on time,Regular savings,None,None,Medium,Default
+A0260,55,Salaried,Master's,1–2 years,More than 3 years,Mostly on time,Frequently late,Always on time,Little or no savings,None,None,Medium,Late Payment
+A0261,37,Self-employed,Master's,Less than 1 year,More than 3 years,Always on time,No payment history,Frequently late,Prefer not to say,None,None,High,Paid on Time
+A0262,29,Salaried,High School,1–2 years,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,Part-Time,Frequent,Medium,Paid on Time
+A0263,45,Self-employed,PhD,1–2 years,Less than 1 year,Always on time,Always on time,Always on time,Some savings,Part-Time,Frequent,Medium,Paid on Time
+A0264,62,Student,Diploma,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0265,45,Student,Other,1–2 years,More than 3 years,Always on time,Always on time,Frequently late,Little or no savings,None,Frequent,Medium,Paid on Time
+A0266,55,Self-employed,High School,2–5 years,More than 3 years,Always on time,Mostly on time,Mostly on time,Some savings,None,Frequent,High,Paid on Time
+A0267,19,Salaried,High School,1–2 years,Less than 1 year,Always on time,Mostly on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0268,62,Salaried,Master's,Less than 1 year,More than 3 years,Always on time,Always on time,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0269,30,Salaried,Bachelor's,Less than 1 year,1–3 years,Frequently late,Mostly on time,Always on time,Regular savings,None,Frequent,High,Late Payment
+A0270,23,Freelancer,High School,2–5 years,More than 3 years,Mostly on time,Always on time,No payment history,Regular savings,None,Occasional,Low,Paid on Time
+A0271,36,Salaried,Bachelor's,1–2 years,Less than 1 year,Frequently late,Frequently late,Always on time,Regular savings,Part-Time,Frequent,Low,Late Payment
+A0272,64,Salaried,Master's,Less than 1 year,1–3 years,No payment history,Always on time,Always on time,Little or no savings,Part-Time,Occasional,Low,Late Payment
+A0273,25,Salaried,Bachelor's,More than 5 years,More than 3 years,Always on time,Frequently late,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0274,64,Unemployed,High School,More than 5 years,Less than 1 year,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0275,54,Freelancer,High School,More than 5 years,More than 3 years,Always on time,Mostly on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0276,53,Student,Bachelor's,No bank account,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0277,35,Salaried,High School,2–5 years,1–3 years,Always on time,Always on time,Mostly on time,Some savings,Full-Time,Occasional,High,Paid on Time
+A0278,24,Self-employed,High School,2–5 years,More than 3 years,Mostly on time,Frequently late,Always on time,Little or no savings,None,Occasional,Medium,Late Payment
+A0279,39,Salaried,High School,Less than 1 year,1–3 years,Mostly on time,Mostly on time,Always on time,Some savings,Part-Time,Frequent,Low,Paid on Time
+A0280,58,Unemployed,Diploma,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,Part-Time,Frequent,Medium,Paid on Time
+A0281,30,Salaried,Master's,Less than 1 year,More than 3 years,Always on time,Always on time,Mostly on time,Regular savings,Part-Time,Occasional,High,Paid on Time
+A0282,55,Unemployed,High School,1–2 years,1–3 years,Always on time,Frequently late,Mostly on time,Some savings,None,None,High,Default
+A0283,55,Salaried,Master's,Less than 1 year,More than 3 years,Mostly on time,Always on time,Frequently late,Some savings,Part-Time,Occasional,High,Late Payment
+A0284,36,Self-employed,High School,1–2 years,More than 3 years,Mostly on time,Always on time,Mostly on time,Little or no savings,Part-Time,None,Medium,Paid on Time
+A0285,30,Salaried,Bachelor's,2–5 years,More than 3 years,Always on time,Mostly on time,No payment history,Regular savings,None,Occasional,Medium,Paid on Time
+A0286,55,Self-employed,Bachelor's,1–2 years,More than 3 years,Frequently late,Always on time,Mostly on time,Little or no savings,None,Frequent,High,Default
+A0287,60,Salaried,Diploma,2–5 years,More than 3 years,Mostly on time,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0288,61,Freelancer,Master's,2–5 years,1–3 years,Always on time,Mostly on time,Mostly on time,Regular savings,Part-Time,None,Medium,Paid on Time
+A0289,61,Salaried,Bachelor's,No bank account,1–3 years,Mostly on time,Mostly on time,Frequently late,Little or no savings,Full-Time,Occasional,Medium,Default
+A0290,56,Salaried,Bachelor's,Less than 1 year,1–3 years,No payment history,Always on time,Frequently late,Little or no savings,None,Frequent,Medium,Default
+A0291,34,Salaried,Bachelor's,1–2 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,None,None,Medium,Paid on Time
+A0292,54,Self-employed,High School,2–5 years,1–3 years,No payment history,Always on time,Mostly on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0293,31,Freelancer,Diploma,1–2 years,More than 3 years,Mostly on time,Always on time,Always on time,Little or no savings,Part-Time,Frequent,Medium,Paid on Time
+A0294,57,Salaried,High School,More than 5 years,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,None,Occasional,Low,Paid on Time
+A0295,50,Student,Bachelor's,No bank account,More than 3 years,Always on time,Always on time,Frequently late,Regular savings,Full-Time,Occasional,High,Paid on Time
+A0296,31,Student,Bachelor's,Less than 1 year,1–3 years,Mostly on time,No payment history,Mostly on time,Some savings,Full-Time,Occasional,High,Paid on Time
+A0297,47,Freelancer,High School,No bank account,Less than 1 year,Always on time,Always on time,Mostly on time,Little or no savings,None,Occasional,Medium,Late Payment
+A0298,25,Self-employed,Bachelor's,2–5 years,More than 3 years,Mostly on time,Mostly on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0299,23,Salaried,Master's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,Part-Time,Occasional,Medium,Paid on Time
+A0300,64,Freelancer,PhD,No bank account,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0301,65,Unemployed,Diploma,1–2 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,Frequent,Low,Paid on Time
+A0302,53,Self-employed,Bachelor's,1–2 years,Less than 1 year,Always on time,Mostly on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0303,57,Salaried,High School,1–2 years,1–3 years,Mostly on time,Mostly on time,Always on time,Some savings,Part-Time,None,High,Paid on Time
+A0304,63,Freelancer,Bachelor's,More than 5 years,Less than 1 year,Mostly on time,Frequently late,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0305,56,Salaried,Diploma,More than 5 years,More than 3 years,Always on time,Mostly on time,Always on time,Little or no savings,Full-Time,Occasional,Medium,Paid on Time
+A0306,55,Salaried,High School,1–2 years,More than 3 years,Always on time,Mostly on time,Always on time,Some savings,Full-Time,Occasional,Low,Paid on Time
+A0307,26,Self-employed,Bachelor's,1–2 years,1–3 years,Mostly on time,Mostly on time,Mostly on time,Some savings,None,Occasional,Medium,Paid on Time
+A0308,60,Student,High School,2–5 years,More than 3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0309,41,Salaried,Master's,More than 5 years,Less than 1 year,Mostly on time,Always on time,Frequently late,Some savings,None,Occasional,Medium,Paid on Time
+A0310,42,Salaried,Bachelor's,More than 5 years,1–3 years,Always on time,Frequently late,Always on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0311,56,Salaried,Master's,1–2 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0312,25,Self-employed,Bachelor's,Less than 1 year,Less than 1 year,Frequently late,Always on time,Always on time,Some savings,None,Occasional,High,Late Payment
+A0313,54,Salaried,High School,More than 5 years,1–3 years,Always on time,Frequently late,Always on time,Little or no savings,Part-Time,Occasional,Low,Paid on Time
+A0314,48,Student,High School,More than 5 years,1–3 years,Mostly on time,Mostly on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0315,47,Self-employed,High School,1–2 years,Less than 1 year,Always on time,Always on time,Frequently late,Some savings,Part-Time,Occasional,High,Paid on Time
+A0316,52,Self-employed,High School,1–2 years,Less than 1 year,Mostly on time,Mostly on time,Frequently late,Little or no savings,Part-Time,Occasional,Medium,Default
+A0317,20,Freelancer,Bachelor's,More than 5 years,1–3 years,Mostly on time,Always on time,Mostly on time,Little or no savings,Part-Time,Occasional,Medium,Paid on Time
+A0318,23,Salaried,Master's,1–2 years,Less than 1 year,Mostly on time,Mostly on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0319,38,Self-employed,High School,1–2 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Full-Time,Occasional,High,Paid on Time
+A0320,29,Salaried,Bachelor's,1–2 years,1–3 years,Always on time,Mostly on time,Mostly on time,Little or no savings,Part-Time,Occasional,Medium,Paid on Time
+A0321,62,Unemployed,High School,2–5 years,More than 3 years,Frequently late,Mostly on time,Mostly on time,Regular savings,None,Occasional,Low,Default
+A0322,56,Self-employed,High School,Less than 1 year,Less than 1 year,Always on time,Always on time,No payment history,Some savings,None,Occasional,Medium,Paid on Time
+A0323,29,Freelancer,Bachelor's,Less than 1 year,More than 3 years,Frequently late,Always on time,Always on time,Some savings,None,Frequent,High,Late Payment
+A0324,18,Unemployed,High School,1–2 years,1–3 years,Mostly on time,Always on time,Always on time,Regular savings,Part-Time,None,Medium,Paid on Time
+A0325,64,Student,Master's,1–2 years,More than 3 years,Always on time,Mostly on time,Always on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0326,36,Salaried,High School,2–5 years,1–3 years,Always on time,Mostly on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0327,39,Unemployed,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Full-Time,Occasional,High,Paid on Time
+A0328,51,Self-employed,Bachelor's,1–2 years,1–3 years,Always on time,Mostly on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0329,54,Salaried,PhD,2–5 years,More than 3 years,Always on time,Always on time,Mostly on time,Little or no savings,None,Frequent,High,Paid on Time
+A0330,24,Salaried,High School,More than 5 years,1–3 years,Always on time,Frequently late,Frequently late,Little or no savings,None,Frequent,Low,Late Payment
+A0331,54,Student,Bachelor's,More than 5 years,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0332,61,Freelancer,Bachelor's,Less than 1 year,1–3 years,Always on time,Always on time,Mostly on time,Some savings,None,Occasional,Low,Paid on Time
+A0333,29,Self-employed,High School,1–2 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,None,Medium,Paid on Time
+A0334,54,Freelancer,Master's,2–5 years,More than 3 years,Mostly on time,Frequently late,Always on time,Little or no savings,Part-Time,Occasional,High,Late Payment
+A0335,44,Self-employed,Other,More than 5 years,1–3 years,Mostly on time,Mostly on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0336,48,Student,High School,2–5 years,1–3 years,Always on time,Always on time,Mostly on time,Some savings,None,Occasional,Medium,Paid on Time
+A0337,56,Salaried,Bachelor's,2–5 years,Less than 1 year,Mostly on time,Always on time,Mostly on time,Some savings,Part-Time,None,Medium,Paid on Time
+A0338,27,Student,Bachelor's,More than 5 years,1–3 years,Mostly on time,Always on time,Frequently late,Regular savings,None,Frequent,Medium,Paid on Time
+A0339,63,Salaried,Bachelor's,1–2 years,1–3 years,Frequently late,Always on time,Always on time,Prefer not to say,None,Frequent,High,Late Payment
+A0340,65,Freelancer,High School,Less than 1 year,Less than 1 year,Always on time,Frequently late,Always on time,Regular savings,None,Occasional,High,Late Payment
+A0341,34,Self-employed,High School,More than 5 years,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Frequent,High,Paid on Time
+A0342,48,Self-employed,Master's,More than 5 years,1–3 years,Always on time,Frequently late,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0343,45,Self-employed,Bachelor's,1–2 years,1–3 years,Always on time,Mostly on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0344,40,Salaried,Bachelor's,2–5 years,1–3 years,Mostly on time,Always on time,Mostly on time,Little or no savings,None,Occasional,Medium,Late Payment
+A0345,30,Self-employed,Bachelor's,1–2 years,Less than 1 year,Mostly on time,Always on time,Always on time,Regular savings,None,Frequent,Low,Paid on Time
+A0346,61,Salaried,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0347,49,Salaried,High School,No bank account,1–3 years,Always on time,Always on time,Always on time,Little or no savings,Part-Time,Frequent,High,Paid on Time
+A0348,37,Student,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Mostly on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0349,29,Salaried,Master's,More than 5 years,More than 3 years,Always on time,Mostly on time,Always on time,Little or no savings,None,Occasional,High,Paid on Time
+A0350,51,Freelancer,High School,1–2 years,More than 3 years,Frequently late,Always on time,Mostly on time,Little or no savings,None,Frequent,Medium,Default
+A0351,37,Salaried,Master's,More than 5 years,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Frequent,Low,Paid on Time
+A0352,62,Self-employed,Bachelor's,1–2 years,Less than 1 year,Always on time,Always on time,Always on time,Little or no savings,Full-Time,Occasional,High,Paid on Time
+A0353,59,Salaried,Bachelor's,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Some savings,Full-Time,Occasional,High,Paid on Time
+A0354,34,Student,Bachelor's,1–2 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,Part-Time,Frequent,Low,Paid on Time
+A0355,53,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Mostly on time,Some savings,Part-Time,None,Medium,Paid on Time
+A0356,38,Freelancer,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0357,51,Freelancer,High School,More than 5 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0358,21,Salaried,Bachelor's,No bank account,More than 3 years,Always on time,Always on time,Frequently late,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0359,44,Student,Bachelor's,No bank account,1–3 years,Always on time,Mostly on time,Mostly on time,Regular savings,None,Occasional,High,Paid on Time
+A0360,30,Self-employed,High School,2–5 years,Less than 1 year,Mostly on time,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0361,24,Salaried,High School,1–2 years,1–3 years,Always on time,No payment history,Always on time,Some savings,None,None,Medium,Paid on Time
+A0362,45,Student,Diploma,Less than 1 year,1–3 years,Always on time,Always on time,Mostly on time,Some savings,None,None,High,Paid on Time
+A0363,20,Other,Bachelor's,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0364,53,Self-employed,Bachelor's,Less than 1 year,1–3 years,Always on time,Always on time,Frequently late,Regular savings,None,Frequent,Medium,Paid on Time
+A0365,54,Unemployed,Bachelor's,2–5 years,More than 3 years,Always on time,Mostly on time,Mostly on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0366,23,Student,Master's,1–2 years,More than 3 years,Always on time,Frequently late,Always on time,Little or no savings,Part-Time,Occasional,Low,Default
+A0367,58,Freelancer,Diploma,1–2 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0368,50,Salaried,Bachelor's,2–5 years,Less than 1 year,Always on time,Always on time,Mostly on time,Some savings,None,Occasional,Medium,Paid on Time
+A0369,62,Salaried,High School,2–5 years,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,None,Frequent,Low,Paid on Time
+A0370,23,Salaried,Bachelor's,1–2 years,Less than 1 year,Always on time,Mostly on time,Mostly on time,Regular savings,None,Occasional,Low,Paid on Time
+A0371,57,Salaried,High School,More than 5 years,Less than 1 year,Always on time,Mostly on time,Mostly on time,Regular savings,None,None,Low,Paid on Time
+A0372,18,Salaried,Master's,1–2 years,1–3 years,Always on time,Mostly on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0373,27,Freelancer,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0374,60,Salaried,Master's,2–5 years,More than 3 years,Always on time,Frequently late,Always on time,Regular savings,None,None,High,Paid on Time
+A0375,38,Self-employed,Bachelor's,Less than 1 year,Less than 1 year,No payment history,Always on time,Mostly on time,Regular savings,Full-Time,Frequent,Medium,Paid on Time
+A0376,61,Salaried,Bachelor's,Less than 1 year,More than 3 years,Always on time,Mostly on time,Always on time,Little or no savings,Full-Time,Occasional,High,Paid on Time
+A0377,53,Unemployed,High School,1–2 years,1–3 years,Always on time,Mostly on time,Always on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0378,37,Unemployed,Diploma,2–5 years,1–3 years,Always on time,Always on time,Mostly on time,Little or no savings,None,Occasional,Medium,Late Payment
+A0379,26,Self-employed,Master's,2–5 years,More than 3 years,Mostly on time,Always on time,Always on time,Some savings,Part-Time,Frequent,Low,Paid on Time
+A0380,38,Student,Bachelor's,1–2 years,1–3 years,Frequently late,Frequently late,Frequently late,Regular savings,Part-Time,Frequent,High,Default
+A0381,57,Self-employed,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0382,42,Self-employed,High School,Less than 1 year,Less than 1 year,Mostly on time,Always on time,Always on time,Some savings,Part-Time,None,Low,Paid on Time
+A0383,22,Salaried,PhD,1–2 years,1–3 years,Mostly on time,Frequently late,Frequently late,Some savings,Part-Time,Occasional,Low,Late Payment
+A0384,65,Self-employed,Bachelor's,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,Full-Time,Frequent,Medium,Paid on Time
+A0385,65,Salaried,Diploma,2–5 years,More than 3 years,Always on time,Always on time,Frequently late,Little or no savings,None,Frequent,Medium,Paid on Time
+A0386,27,Self-employed,Bachelor's,Less than 1 year,1–3 years,Always on time,Always on time,Frequently late,Some savings,None,Frequent,High,Paid on Time
+A0387,47,Self-employed,Bachelor's,Less than 1 year,1–3 years,Always on time,Mostly on time,Frequently late,Little or no savings,Part-Time,Frequent,High,Default
+A0388,51,Freelancer,Bachelor's,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,None,Low,Paid on Time
+A0389,28,Student,High School,2–5 years,1–3 years,Always on time,Mostly on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0390,47,Self-employed,Bachelor's,More than 5 years,1–3 years,Always on time,Always on time,Mostly on time,Some savings,None,Occasional,High,Paid on Time
+A0391,53,Salaried,Bachelor's,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0392,24,Self-employed,High School,2–5 years,1–3 years,Mostly on time,Always on time,Mostly on time,Regular savings,None,Occasional,Low,Paid on Time
+A0393,23,Freelancer,Diploma,More than 5 years,More than 3 years,Mostly on time,Mostly on time,Always on time,Some savings,None,None,Medium,Paid on Time
+A0394,31,Self-employed,High School,2–5 years,1–3 years,No payment history,Always on time,Mostly on time,Little or no savings,Full-Time,Frequent,Medium,Paid on Time
+A0395,38,Salaried,Bachelor's,2–5 years,More than 3 years,Mostly on time,Always on time,Mostly on time,Some savings,Part-Time,None,High,Paid on Time
+A0396,25,Salaried,Bachelor's,Less than 1 year,More than 3 years,Mostly on time,No payment history,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0397,30,Freelancer,Diploma,No bank account,1–3 years,Always on time,Mostly on time,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0398,39,Unemployed,Bachelor's,1–2 years,Less than 1 year,Always on time,Always on time,Always on time,Little or no savings,Full-Time,Occasional,Low,Late Payment
+A0399,65,Salaried,Bachelor's,2–5 years,More than 3 years,Mostly on time,Always on time,Always on time,Some savings,Full-Time,Occasional,High,Paid on Time
+A0400,39,Other,Bachelor's,More than 5 years,1–3 years,Always on time,Always on time,Mostly on time,Little or no savings,Part-Time,Frequent,High,Paid on Time
+A0401,44,Salaried,Master's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0402,50,Salaried,Diploma,1–2 years,More than 3 years,Always on time,Always on time,Mostly on time,Regular savings,Full-Time,Occasional,Low,Paid on Time
+A0403,31,Freelancer,Bachelor's,2–5 years,1–3 years,Always on time,Frequently late,Mostly on time,Some savings,None,Occasional,High,Late Payment
+A0404,37,Salaried,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,Part-Time,Frequent,High,Paid on Time
+A0405,25,Salaried,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,Frequent,High,Paid on Time
+A0406,46,Salaried,High School,More than 5 years,Less than 1 year,Always on time,Always on time,Always on time,Little or no savings,Full-Time,Occasional,Medium,Paid on Time
+A0407,46,Self-employed,Diploma,More than 5 years,More than 3 years,Mostly on time,Always on time,No payment history,Little or no savings,None,Frequent,Low,Paid on Time
+A0408,47,Salaried,Bachelor's,2–5 years,1–3 years,Frequently late,Always on time,Frequently late,Regular savings,None,Frequent,Low,Late Payment
+A0409,39,Student,Master's,1–2 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,High,Paid on Time
+A0410,24,Salaried,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0411,62,Self-employed,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Mostly on time,Regular savings,Full-Time,Occasional,Medium,Paid on Time
+A0412,53,Salaried,Bachelor's,1–2 years,1–3 years,Mostly on time,Mostly on time,Always on time,Little or no savings,None,Occasional,High,Paid on Time
+A0413,31,Student,Master's,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0414,54,Student,Bachelor's,More than 5 years,More than 3 years,Mostly on time,Frequently late,No payment history,Some savings,Part-Time,Occasional,Low,Late Payment
+A0415,36,Salaried,Master's,More than 5 years,Less than 1 year,Mostly on time,No payment history,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0416,43,Salaried,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Frequently late,Little or no savings,None,None,Medium,Paid on Time
+A0417,26,Salaried,Bachelor's,Less than 1 year,More than 3 years,Mostly on time,No payment history,Always on time,Regular savings,Part-Time,None,Low,Paid on Time
+A0418,57,Salaried,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Frequent,Medium,Paid on Time
+A0419,44,Unemployed,Bachelor's,No bank account,Less than 1 year,Always on time,Always on time,Always on time,Prefer not to say,None,Occasional,Medium,Paid on Time
+A0420,35,Self-employed,High School,More than 5 years,Less than 1 year,Always on time,Mostly on time,Frequently late,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0421,21,Unemployed,Bachelor's,No bank account,1–3 years,Frequently late,Always on time,Always on time,Some savings,Full-Time,Frequent,High,Default
+A0422,37,Freelancer,Bachelor's,No bank account,1–3 years,Always on time,Always on time,No payment history,Little or no savings,Part-Time,Frequent,High,Late Payment
+A0423,50,Salaried,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Mostly on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0424,62,Salaried,High School,2–5 years,Less than 1 year,No payment history,Frequently late,Always on time,Little or no savings,Part-Time,Occasional,Medium,Late Payment
+A0425,42,Salaried,Bachelor's,2–5 years,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0426,52,Salaried,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0427,20,Salaried,Bachelor's,1–2 years,More than 3 years,Mostly on time,Mostly on time,Always on time,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0428,33,Freelancer,Bachelor's,Less than 1 year,1–3 years,Mostly on time,Always on time,Always on time,Some savings,Part-Time,Frequent,High,Paid on Time
+A0429,24,Freelancer,Diploma,2–5 years,1–3 years,Always on time,Mostly on time,Always on time,Some savings,Full-Time,Frequent,Medium,Paid on Time
+A0430,23,Student,High School,2–5 years,More than 3 years,Mostly on time,Frequently late,Frequently late,Some savings,None,Occasional,Low,Late Payment
+A0431,58,Self-employed,Other,2–5 years,More than 3 years,Mostly on time,Mostly on time,Always on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0432,34,Salaried,High School,More than 5 years,1–3 years,Always on time,Mostly on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0433,46,Freelancer,High School,No bank account,1–3 years,Always on time,Always on time,Frequently late,Regular savings,Part-Time,None,Medium,Paid on Time
+A0434,43,Self-employed,Bachelor's,More than 5 years,1–3 years,Always on time,Mostly on time,Mostly on time,Little or no savings,None,Frequent,Low,Paid on Time
+A0435,48,Salaried,Bachelor's,More than 5 years,1–3 years,Always on time,Always on time,No payment history,Some savings,None,None,Medium,Paid on Time
+A0436,36,Freelancer,High School,No bank account,1–3 years,Always on time,Mostly on time,Frequently late,Some savings,None,Frequent,Medium,Late Payment
+A0437,65,Salaried,High School,No bank account,More than 3 years,Always on time,Always on time,Mostly on time,Some savings,None,None,Low,Paid on Time
+A0438,39,Salaried,Bachelor's,No bank account,Less than 1 year,Frequently late,Mostly on time,Always on time,Some savings,Full-Time,Frequent,Medium,Default
+A0439,22,Salaried,High School,2–5 years,1–3 years,Frequently late,Always on time,Mostly on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0440,28,Student,High School,More than 5 years,Less than 1 year,Mostly on time,Mostly on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0441,43,Salaried,PhD,2–5 years,Less than 1 year,Frequently late,Mostly on time,Mostly on time,Some savings,None,Frequent,High,Default
+A0442,53,Salaried,High School,2–5 years,Less than 1 year,Mostly on time,Mostly on time,Always on time,Regular savings,Full-Time,Frequent,High,Paid on Time
+A0443,23,Freelancer,Bachelor's,1–2 years,More than 3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0444,56,Salaried,Bachelor's,More than 5 years,1–3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0445,41,Student,Other,2–5 years,1–3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Occasional,Low,Paid on Time
+A0446,20,Salaried,Diploma,Less than 1 year,1–3 years,Mostly on time,Frequently late,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0447,19,Self-employed,High School,More than 5 years,More than 3 years,Mostly on time,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0448,30,Salaried,High School,1–2 years,1–3 years,Frequently late,Always on time,Frequently late,Some savings,None,Frequent,Medium,Late Payment
+A0449,58,Salaried,Diploma,1–2 years,Less than 1 year,Mostly on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0450,58,Unemployed,Master's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0451,18,Freelancer,Bachelor's,Less than 1 year,1–3 years,Mostly on time,Frequently late,Always on time,Regular savings,None,Frequent,Low,Paid on Time
+A0452,50,Salaried,Bachelor's,1–2 years,More than 3 years,Frequently late,Always on time,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0453,26,Salaried,High School,More than 5 years,Less than 1 year,Mostly on time,Always on time,Always on time,Some savings,None,None,Medium,Paid on Time
+A0454,29,Student,Diploma,1–2 years,1–3 years,Frequently late,Always on time,Frequently late,Some savings,None,Occasional,Medium,Late Payment
+A0455,57,Self-employed,Bachelor's,2–5 years,Less than 1 year,Frequently late,Mostly on time,Always on time,Little or no savings,Part-Time,None,High,Default
+A0456,41,Salaried,Bachelor's,2–5 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0457,62,Salaried,Bachelor's,Less than 1 year,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0458,61,Student,Master's,1–2 years,1–3 years,Mostly on time,Mostly on time,No payment history,Little or no savings,None,None,High,Paid on Time
+A0459,43,Student,Diploma,More than 5 years,Less than 1 year,Always on time,Mostly on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0460,26,Self-employed,Bachelor's,2–5 years,Less than 1 year,Always on time,Always on time,Mostly on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0461,59,Freelancer,Diploma,2–5 years,More than 3 years,Frequently late,Always on time,Always on time,Regular savings,Part-Time,Frequent,Medium,Late Payment
+A0462,21,Salaried,Diploma,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,None,Low,Paid on Time
+A0463,28,Salaried,High School,1–2 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0464,37,Salaried,High School,More than 5 years,More than 3 years,Frequently late,Frequently late,Always on time,Prefer not to say,None,Occasional,Medium,Default
+A0465,36,Self-employed,Diploma,More than 5 years,More than 3 years,Mostly on time,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0466,53,Salaried,High School,2–5 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Occasional,Low,Paid on Time
+A0467,30,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,None,Low,Paid on Time
+A0468,45,Salaried,Diploma,1–2 years,1–3 years,No payment history,Frequently late,Always on time,Little or no savings,None,None,Low,Default
+A0469,36,Salaried,Bachelor's,More than 5 years,More than 3 years,Always on time,Mostly on time,Always on time,Regular savings,None,None,Medium,Paid on Time
+A0470,55,Freelancer,High School,1–2 years,More than 3 years,Always on time,Always on time,Mostly on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0471,53,Self-employed,Master's,1–2 years,1–3 years,Always on time,Mostly on time,Always on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0472,60,Student,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Prefer not to say,None,Occasional,Medium,Paid on Time
+A0473,54,Self-employed,Diploma,2–5 years,More than 3 years,Frequently late,Always on time,Mostly on time,Regular savings,None,Occasional,High,Late Payment
+A0474,40,Salaried,Diploma,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,High,Paid on Time
+A0475,24,Self-employed,High School,1–2 years,1–3 years,Frequently late,Mostly on time,Always on time,Some savings,None,Occasional,Medium,Late Payment
+A0476,36,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Full-Time,Occasional,Low,Paid on Time
+A0477,51,Student,Bachelor's,2–5 years,More than 3 years,Always on time,Frequently late,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0478,56,Self-employed,PhD,Less than 1 year,1–3 years,Mostly on time,Always on time,Always on time,Some savings,Part-Time,Frequent,High,Paid on Time
+A0479,23,Self-employed,Bachelor's,Less than 1 year,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0480,37,Freelancer,Bachelor's,2–5 years,More than 3 years,Always on time,Frequently late,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0481,55,Salaried,High School,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0482,52,Salaried,Bachelor's,More than 5 years,More than 3 years,Frequently late,Always on time,Mostly on time,Regular savings,Part-Time,Frequent,Low,Paid on Time
+A0483,42,Self-employed,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,Medium,Paid on Time
+A0484,42,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,None,Frequent,Low,Paid on Time
+A0485,48,Unemployed,Diploma,No bank account,More than 3 years,Mostly on time,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0486,28,Salaried,PhD,1–2 years,1–3 years,No payment history,Always on time,Mostly on time,Little or no savings,None,Occasional,Medium,Late Payment
+A0487,35,Freelancer,Master's,More than 5 years,1–3 years,Mostly on time,Frequently late,No payment history,Some savings,None,Occasional,High,Late Payment
+A0488,26,Salaried,Bachelor's,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0489,60,Freelancer,Bachelor's,2–5 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,Full-Time,Occasional,Low,Paid on Time
+A0490,25,Salaried,Diploma,1–2 years,1–3 years,Always on time,Always on time,Mostly on time,Some savings,Part-Time,Occasional,High,Paid on Time
+A0491,63,Salaried,Bachelor's,2–5 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,None,Frequent,Medium,Paid on Time
+A0492,61,Salaried,PhD,1–2 years,Less than 1 year,Always on time,Mostly on time,Always on time,Little or no savings,None,None,Medium,Paid on Time
+A0493,24,Self-employed,Other,1–2 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,Part-Time,None,High,Paid on Time
+A0494,20,Self-employed,Master's,2–5 years,More than 3 years,Always on time,Mostly on time,Always on time,Prefer not to say,None,Occasional,Medium,Paid on Time
+A0495,49,Salaried,Bachelor's,1–2 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0496,52,Salaried,Diploma,1–2 years,1–3 years,Frequently late,Mostly on time,Frequently late,Little or no savings,None,Occasional,Medium,Default
+A0497,54,Student,Bachelor's,Less than 1 year,More than 3 years,Mostly on time,Always on time,Mostly on time,Some savings,None,Frequent,Medium,Paid on Time
+A0498,53,Salaried,High School,2–5 years,More than 3 years,Mostly on time,Always on time,Frequently late,Little or no savings,None,None,Medium,Late Payment
+A0499,57,Student,Master's,More than 5 years,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Low,Paid on Time
+A0500,22,Freelancer,Master's,1–2 years,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Frequent,Low,Paid on Time
+A0501,37,Self-employed,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,High,Paid on Time
+A0502,49,Student,High School,More than 5 years,1–3 years,Always on time,Always on time,Frequently late,Little or no savings,Part-Time,None,Medium,Late Payment
+A0503,64,Student,High School,2–5 years,1–3 years,Always on time,Mostly on time,Always on time,Little or no savings,None,Occasional,High,Paid on Time
+A0504,38,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Full-Time,Occasional,Medium,Paid on Time
+A0505,55,Salaried,Bachelor's,2–5 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0506,59,Unemployed,Bachelor's,More than 5 years,More than 3 years,Frequently late,Mostly on time,Mostly on time,Regular savings,None,Frequent,Low,Late Payment
+A0507,41,Unemployed,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Frequently late,Little or no savings,Full-Time,Frequent,Low,Late Payment
+A0508,28,Unemployed,Bachelor's,More than 5 years,More than 3 years,Always on time,Always on time,Mostly on time,Little or no savings,Full-Time,Occasional,Medium,Late Payment
+A0509,39,Freelancer,Master's,More than 5 years,More than 3 years,Mostly on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0510,59,Salaried,Bachelor's,2–5 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,None,Occasional,Low,Paid on Time
+A0511,59,Freelancer,Master's,2–5 years,More than 3 years,Always on time,Always on time,Mostly on time,Regular savings,Part-Time,Occasional,Low,Paid on Time
+A0512,29,Salaried,Diploma,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,Medium,Paid on Time
+A0513,34,Freelancer,High School,1–2 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0514,61,Self-employed,High School,Less than 1 year,More than 3 years,Frequently late,Always on time,Mostly on time,Some savings,None,Frequent,High,Default
+A0515,36,Freelancer,High School,Less than 1 year,More than 3 years,Always on time,No payment history,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0516,38,Unemployed,Diploma,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Some savings,None,None,Medium,Paid on Time
+A0517,40,Other,Master's,More than 5 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0518,55,Salaried,High School,1–2 years,1–3 years,Always on time,Always on time,Mostly on time,Some savings,None,Frequent,Low,Paid on Time
+A0519,49,Student,Master's,2–5 years,More than 3 years,Always on time,Frequently late,Always on time,Little or no savings,None,Frequent,Low,Late Payment
+A0520,27,Self-employed,Master's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0521,49,Salaried,Diploma,2–5 years,1–3 years,Always on time,Mostly on time,Mostly on time,Regular savings,None,None,High,Paid on Time
+A0522,35,Self-employed,Bachelor's,Less than 1 year,More than 3 years,Always on time,Mostly on time,Always on time,Little or no savings,None,Occasional,High,Paid on Time
+A0523,39,Salaried,Bachelor's,2–5 years,1–3 years,Mostly on time,Frequently late,Mostly on time,Regular savings,None,Occasional,Medium,Late Payment
+A0524,56,Freelancer,Diploma,No bank account,1–3 years,Always on time,Frequently late,No payment history,Little or no savings,Part-Time,Frequent,Low,Default
+A0525,59,Salaried,Bachelor's,2–5 years,1–3 years,Mostly on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,High,Paid on Time
+A0526,43,Salaried,Bachelor's,2–5 years,Less than 1 year,Always on time,Always on time,Mostly on time,Some savings,Part-Time,Frequent,Medium,Paid on Time
+A0527,41,Self-employed,Bachelor's,More than 5 years,1–3 years,Mostly on time,Always on time,Mostly on time,Little or no savings,Part-Time,Occasional,Medium,Paid on Time
+A0528,47,Freelancer,Bachelor's,2–5 years,More than 3 years,Always on time,Mostly on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0529,26,Freelancer,Diploma,Less than 1 year,1–3 years,Mostly on time,Always on time,Frequently late,Some savings,None,Occasional,Medium,Late Payment
+A0530,40,Salaried,High School,2–5 years,Less than 1 year,Mostly on time,Always on time,Always on time,Some savings,None,None,Medium,Paid on Time
+A0531,55,Freelancer,Bachelor's,1–2 years,More than 3 years,Always on time,Frequently late,Mostly on time,Regular savings,None,None,Medium,Paid on Time
+A0532,19,Salaried,High School,Less than 1 year,1–3 years,Mostly on time,Frequently late,Frequently late,Some savings,None,Occasional,Low,Default
+A0533,41,Freelancer,PhD,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,Part-Time,Frequent,High,Paid on Time
+A0534,33,Self-employed,Bachelor's,2–5 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0535,49,Self-employed,Master's,2–5 years,1–3 years,Mostly on time,Mostly on time,Always on time,Regular savings,Part-Time,Occasional,Low,Paid on Time
+A0536,56,Freelancer,Other,No bank account,1–3 years,Always on time,Mostly on time,Frequently late,Little or no savings,Full-Time,Frequent,High,Default
+A0537,19,Self-employed,Diploma,No bank account,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,High,Paid on Time
+A0538,40,Self-employed,Bachelor's,2–5 years,More than 3 years,Frequently late,Frequently late,Mostly on time,Some savings,Full-Time,Occasional,Medium,Default
+A0539,44,Student,Bachelor's,2–5 years,More than 3 years,Mostly on time,Mostly on time,Always on time,Regular savings,Part-Time,Occasional,High,Paid on Time
+A0540,24,Student,PhD,1–2 years,1–3 years,Mostly on time,No payment history,Always on time,Regular savings,Part-Time,Frequent,Low,Paid on Time
+A0541,50,Salaried,High School,1–2 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,Low,Paid on Time
+A0542,62,Student,Bachelor's,Less than 1 year,Less than 1 year,Frequently late,Mostly on time,Frequently late,Little or no savings,Full-Time,Occasional,Medium,Default
+A0543,24,Student,High School,Less than 1 year,1–3 years,Frequently late,Frequently late,Always on time,Regular savings,None,Occasional,Medium,Default
+A0544,39,Student,High School,Less than 1 year,More than 3 years,Mostly on time,Always on time,Mostly on time,Some savings,None,Frequent,Medium,Paid on Time
+A0545,63,Freelancer,Diploma,2–5 years,Less than 1 year,Mostly on time,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0546,41,Unemployed,Bachelor's,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0547,20,Freelancer,Bachelor's,More than 5 years,Less than 1 year,Mostly on time,Mostly on time,Mostly on time,Some savings,None,Occasional,Medium,Paid on Time
+A0548,65,Salaried,Diploma,More than 5 years,More than 3 years,Mostly on time,Always on time,Always on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0549,46,Freelancer,Master's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,High,Paid on Time
+A0550,23,Self-employed,Diploma,1–2 years,1–3 years,Always on time,Frequently late,Always on time,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0551,50,Salaried,High School,1–2 years,1–3 years,Always on time,Always on time,Mostly on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0552,55,Self-employed,Master's,2–5 years,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,Part-Time,Occasional,Medium,Paid on Time
+A0553,51,Freelancer,High School,2–5 years,Less than 1 year,Mostly on time,Always on time,Always on time,Some savings,None,Frequent,Medium,Paid on Time
+A0554,22,Salaried,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,None,Medium,Paid on Time
+A0555,44,Student,High School,Less than 1 year,More than 3 years,Always on time,Mostly on time,Mostly on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0556,25,Self-employed,Bachelor's,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Prefer not to say,None,Occasional,Low,Paid on Time
+A0557,27,Student,Bachelor's,More than 5 years,1–3 years,Always on time,Always on time,Mostly on time,Regular savings,None,Frequent,High,Paid on Time
+A0558,46,Unemployed,Bachelor's,1–2 years,More than 3 years,Mostly on time,Mostly on time,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0559,38,Salaried,Bachelor's,2–5 years,1–3 years,Frequently late,Always on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0560,58,Student,Bachelor's,2–5 years,Less than 1 year,Mostly on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0561,48,Self-employed,High School,2–5 years,1–3 years,No payment history,Always on time,Always on time,Little or no savings,Part-Time,Occasional,High,Late Payment
+A0562,55,Salaried,Master's,No bank account,1–3 years,Always on time,Frequently late,Always on time,Regular savings,None,Frequent,High,Paid on Time
+A0563,27,Salaried,Bachelor's,Less than 1 year,More than 3 years,Mostly on time,Always on time,Frequently late,Regular savings,Part-Time,Frequent,High,Paid on Time
+A0564,34,Salaried,Master's,Less than 1 year,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,None,Frequent,High,Paid on Time
+A0565,47,Self-employed,High School,No bank account,1–3 years,Frequently late,Always on time,Always on time,Some savings,None,Occasional,Medium,Late Payment
+A0566,46,Salaried,Bachelor's,Less than 1 year,More than 3 years,Always on time,No payment history,Mostly on time,Some savings,None,None,Medium,Paid on Time
+A0567,18,Student,PhD,2–5 years,More than 3 years,Always on time,Always on time,Frequently late,Regular savings,None,Occasional,Low,Paid on Time
+A0568,50,Salaried,High School,2–5 years,Less than 1 year,Always on time,Mostly on time,Mostly on time,Little or no savings,Full-Time,None,High,Paid on Time
+A0569,50,Unemployed,Diploma,2–5 years,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,Full-Time,Frequent,Medium,Paid on Time
+A0570,62,Salaried,Master's,2–5 years,Less than 1 year,Always on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0571,59,Freelancer,Bachelor's,More than 5 years,More than 3 years,Always on time,Always on time,No payment history,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0572,25,Self-employed,Master's,1–2 years,1–3 years,Always on time,Always on time,Frequently late,Some savings,None,Occasional,Medium,Late Payment
+A0573,63,Salaried,Other,More than 5 years,Less than 1 year,Always on time,Mostly on time,Always on time,Regular savings,Full-Time,Occasional,High,Paid on Time
+A0574,28,Self-employed,Bachelor's,2–5 years,More than 3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0575,51,Freelancer,Diploma,More than 5 years,Less than 1 year,No payment history,Mostly on time,Always on time,Some savings,Full-Time,Frequent,Medium,Paid on Time
+A0576,38,Self-employed,Other,1–2 years,More than 3 years,Always on time,Always on time,Mostly on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0577,46,Salaried,Diploma,1–2 years,More than 3 years,Frequently late,No payment history,Always on time,Some savings,Full-Time,None,High,Late Payment
+A0578,58,Salaried,Bachelor's,More than 5 years,1–3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Frequent,High,Paid on Time
+A0579,39,Self-employed,High School,No bank account,1–3 years,Always on time,Always on time,Always on time,Regular savings,Full-Time,None,Medium,Paid on Time
+A0580,26,Salaried,Master's,No bank account,1–3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0581,44,Salaried,Bachelor's,2–5 years,Less than 1 year,Always on time,Mostly on time,Frequently late,Some savings,None,None,Low,Paid on Time
+A0582,30,Salaried,High School,2–5 years,1–3 years,Frequently late,Frequently late,Always on time,Some savings,None,Occasional,Medium,Default
+A0583,29,Salaried,Bachelor's,No bank account,1–3 years,Always on time,Frequently late,Mostly on time,Some savings,Full-Time,Occasional,High,Late Payment
+A0584,41,Unemployed,Bachelor's,2–5 years,Less than 1 year,Always on time,Mostly on time,Always on time,Regular savings,None,None,Medium,Paid on Time
+A0585,30,Student,Diploma,2–5 years,More than 3 years,No payment history,Always on time,Always on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0586,20,Self-employed,Master's,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,Part-Time,Occasional,Medium,Paid on Time
+A0587,43,Salaried,Other,1–2 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0588,29,Salaried,Diploma,Less than 1 year,More than 3 years,Always on time,Always on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0589,59,Student,High School,More than 5 years,1–3 years,Always on time,Mostly on time,Mostly on time,Little or no savings,Full-Time,None,Low,Paid on Time
+A0590,27,Student,High School,Less than 1 year,1–3 years,Mostly on time,Always on time,Always on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0591,52,Salaried,High School,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0592,28,Self-employed,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0593,35,Self-employed,Bachelor's,2–5 years,1–3 years,Always on time,Frequently late,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0594,34,Self-employed,High School,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0595,49,Salaried,Diploma,Less than 1 year,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,None,Occasional,Low,Paid on Time
+A0596,22,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Mostly on time,Mostly on time,Little or no savings,None,Occasional,High,Paid on Time
+A0597,63,Freelancer,Master's,No bank account,1–3 years,Frequently late,Mostly on time,Always on time,Some savings,None,Occasional,Medium,Default
+A0598,27,Student,High School,2–5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Frequent,High,Paid on Time
+A0599,30,Self-employed,PhD,1–2 years,1–3 years,Frequently late,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Default
+A0600,32,Self-employed,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,Full-Time,Frequent,Low,Paid on Time
+A0601,39,Self-employed,Bachelor's,More than 5 years,1–3 years,Always on time,Always on time,Frequently late,Regular savings,None,Occasional,Medium,Paid on Time
+A0602,37,Salaried,High School,2–5 years,Less than 1 year,Mostly on time,Always on time,Always on time,Regular savings,Full-Time,Frequent,High,Paid on Time
+A0603,60,Self-employed,Bachelor's,1–2 years,Less than 1 year,Always on time,Frequently late,Always on time,Prefer not to say,None,Occasional,Medium,Late Payment
+A0604,31,Salaried,High School,1–2 years,More than 3 years,Always on time,Mostly on time,Frequently late,Some savings,None,Occasional,Medium,Paid on Time
+A0605,18,Other,Bachelor's,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0606,40,Freelancer,Bachelor's,1–2 years,1–3 years,Frequently late,Always on time,Always on time,Little or no savings,Part-Time,Occasional,Low,Default
+A0607,29,Freelancer,High School,2–5 years,Less than 1 year,Frequently late,Always on time,Frequently late,Some savings,Part-Time,Frequent,Medium,Late Payment
+A0608,44,Other,Bachelor's,More than 5 years,Less than 1 year,Always on time,Mostly on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0609,22,Freelancer,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0610,23,Self-employed,High School,More than 5 years,Less than 1 year,Frequently late,Mostly on time,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0611,43,Salaried,Bachelor's,No bank account,1–3 years,Always on time,Always on time,Mostly on time,Little or no savings,None,Occasional,High,Late Payment
+A0612,60,Freelancer,Master's,1–2 years,1–3 years,Always on time,Always on time,Mostly on time,Little or no savings,Full-Time,Occasional,High,Paid on Time
+A0613,23,Salaried,High School,No bank account,More than 3 years,Mostly on time,Always on time,Frequently late,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0614,38,Salaried,Bachelor's,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0615,18,Salaried,Bachelor's,No bank account,More than 3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Occasional,Low,Paid on Time
+A0616,54,Salaried,PhD,2–5 years,More than 3 years,Mostly on time,Mostly on time,No payment history,Some savings,None,Occasional,Low,Paid on Time
+A0617,38,Unemployed,Bachelor's,No bank account,Less than 1 year,Frequently late,Always on time,Always on time,Little or no savings,None,Occasional,High,Default
+A0618,25,Salaried,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Frequent,Low,Paid on Time
+A0619,56,Other,Bachelor's,More than 5 years,Less than 1 year,Always on time,Mostly on time,Always on time,Little or no savings,None,Occasional,Low,Paid on Time
+A0620,39,Salaried,Bachelor's,More than 5 years,More than 3 years,Always on time,Mostly on time,Mostly on time,Some savings,None,Frequent,Medium,Paid on Time
+A0621,18,Salaried,Bachelor's,More than 5 years,Less than 1 year,No payment history,Frequently late,Always on time,Regular savings,None,Occasional,High,Late Payment
+A0622,47,Salaried,Bachelor's,Less than 1 year,Less than 1 year,Always on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0623,41,Salaried,High School,1–2 years,1–3 years,Mostly on time,Mostly on time,Mostly on time,Little or no savings,None,Occasional,Low,Paid on Time
+A0624,56,Self-employed,Bachelor's,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0625,30,Salaried,Master's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,Frequent,Low,Paid on Time
+A0626,25,Salaried,Bachelor's,Less than 1 year,1–3 years,Always on time,Frequently late,Mostly on time,Some savings,None,Occasional,Medium,Paid on Time
+A0627,59,Salaried,Bachelor's,Less than 1 year,1–3 years,Frequently late,Always on time,Mostly on time,Regular savings,Part-Time,Frequent,Medium,Late Payment
+A0628,33,Self-employed,PhD,More than 5 years,Less than 1 year,Mostly on time,Mostly on time,Frequently late,Some savings,None,None,Medium,Paid on Time
+A0629,30,Student,High School,1–2 years,More than 3 years,Always on time,Always on time,Frequently late,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0630,54,Freelancer,Diploma,Less than 1 year,More than 3 years,Frequently late,Always on time,Always on time,Prefer not to say,Part-Time,Frequent,High,Default
+A0631,62,Self-employed,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,Medium,Paid on Time
+A0632,65,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Mostly on time,Always on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0633,35,Salaried,High School,Less than 1 year,1–3 years,Mostly on time,Always on time,Always on time,Prefer not to say,Part-Time,Occasional,High,Paid on Time
+A0634,42,Self-employed,Other,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,Full-Time,None,Low,Paid on Time
+A0635,41,Freelancer,Diploma,No bank account,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,None,High,Paid on Time
+A0636,35,Unemployed,Bachelor's,Less than 1 year,1–3 years,Mostly on time,Frequently late,Always on time,Some savings,None,Occasional,Low,Default
+A0637,38,Salaried,Diploma,No bank account,More than 3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Frequent,Medium,Paid on Time
+A0638,60,Student,Master's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Full-Time,Occasional,High,Paid on Time
+A0639,23,Salaried,Bachelor's,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,Low,Paid on Time
+A0640,45,Other,High School,More than 5 years,1–3 years,Always on time,Always on time,Mostly on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0641,52,Freelancer,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Frequently late,Regular savings,None,None,Medium,Paid on Time
+A0642,53,Unemployed,Bachelor's,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Some savings,None,None,Medium,Late Payment
+A0643,26,Student,PhD,2–5 years,Less than 1 year,Always on time,Always on time,Mostly on time,Prefer not to say,None,Occasional,Medium,Paid on Time
+A0644,56,Self-employed,High School,No bank account,More than 3 years,Always on time,Mostly on time,Always on time,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0645,65,Freelancer,Master's,2–5 years,1–3 years,Always on time,No payment history,Always on time,Prefer not to say,Part-Time,Occasional,Low,Paid on Time
+A0646,42,Salaried,Master's,Less than 1 year,More than 3 years,Frequently late,Frequently late,Always on time,Little or no savings,Full-Time,Occasional,Low,Default
+A0647,64,Salaried,Other,2–5 years,More than 3 years,No payment history,Always on time,Always on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0648,62,Unemployed,Bachelor's,2–5 years,Less than 1 year,Always on time,Mostly on time,Mostly on time,Regular savings,Full-Time,Frequent,Medium,Paid on Time
+A0649,54,Salaried,Bachelor's,1–2 years,Less than 1 year,Always on time,Mostly on time,Mostly on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0650,45,Freelancer,High School,No bank account,1–3 years,Always on time,Frequently late,Always on time,Some savings,None,Occasional,High,Late Payment
+A0651,64,Self-employed,High School,Less than 1 year,1–3 years,Mostly on time,Frequently late,Mostly on time,Some savings,Part-Time,Occasional,Medium,Late Payment
+A0652,59,Salaried,Bachelor's,1–2 years,Less than 1 year,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Low,Paid on Time
+A0653,48,Salaried,Bachelor's,2–5 years,Less than 1 year,Always on time,Mostly on time,Always on time,Some savings,None,Frequent,Low,Paid on Time
+A0654,62,Salaried,Bachelor's,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,Part-Time,Frequent,Low,Paid on Time
+A0655,60,Student,High School,2–5 years,Less than 1 year,Mostly on time,Mostly on time,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0656,25,Self-employed,Diploma,2–5 years,1–3 years,Frequently late,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Late Payment
+A0657,46,Salaried,Bachelor's,1–2 years,More than 3 years,No payment history,Mostly on time,Always on time,Some savings,Part-Time,Frequent,High,Paid on Time
+A0658,31,Unemployed,Bachelor's,Less than 1 year,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,None,None,Medium,Paid on Time
+A0659,23,Unemployed,Bachelor's,More than 5 years,Less than 1 year,Always on time,Mostly on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0660,28,Self-employed,High School,More than 5 years,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0661,58,Salaried,Master's,2–5 years,Less than 1 year,Mostly on time,Always on time,Always on time,Prefer not to say,None,None,Low,Paid on Time
+A0662,37,Self-employed,Master's,Less than 1 year,1–3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Frequent,Low,Paid on Time
+A0663,29,Salaried,Bachelor's,More than 5 years,1–3 years,Mostly on time,Mostly on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0664,65,Salaried,Master's,2–5 years,1–3 years,Mostly on time,Mostly on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0665,36,Salaried,Bachelor's,More than 5 years,More than 3 years,Frequently late,Always on time,Mostly on time,Little or no savings,None,Frequent,High,Paid on Time
+A0666,23,Salaried,High School,2–5 years,1–3 years,Always on time,Frequently late,Frequently late,Some savings,None,Occasional,Medium,Paid on Time
+A0667,50,Freelancer,Bachelor's,2–5 years,Less than 1 year,Always on time,Always on time,Mostly on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0668,51,Freelancer,High School,1–2 years,Less than 1 year,Frequently late,Mostly on time,Frequently late,Regular savings,None,Frequent,Medium,Default
+A0669,21,Self-employed,Diploma,1–2 years,Less than 1 year,Frequently late,Always on time,Always on time,Little or no savings,None,Frequent,Medium,Late Payment
+A0670,54,Salaried,Master's,More than 5 years,More than 3 years,Always on time,Frequently late,Frequently late,Little or no savings,Part-Time,Frequent,High,Paid on Time
+A0671,47,Salaried,Diploma,No bank account,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0672,27,Freelancer,Diploma,1–2 years,1–3 years,Always on time,Frequently late,Always on time,Regular savings,Full-Time,Occasional,Medium,Paid on Time
+A0673,26,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,None,High,Paid on Time
+A0674,60,Other,High School,1–2 years,1–3 years,Mostly on time,Always on time,Mostly on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0675,42,Salaried,PhD,2–5 years,Less than 1 year,Always on time,Always on time,Mostly on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0676,36,Self-employed,Bachelor's,Less than 1 year,Less than 1 year,Always on time,Always on time,Mostly on time,Little or no savings,Full-Time,Frequent,Low,Paid on Time
+A0677,30,Self-employed,Bachelor's,Less than 1 year,More than 3 years,Mostly on time,Always on time,Mostly on time,Some savings,None,Frequent,Medium,Paid on Time
+A0678,27,Self-employed,Bachelor's,Less than 1 year,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0679,59,Salaried,High School,1–2 years,More than 3 years,Mostly on time,Always on time,Frequently late,Regular savings,None,Occasional,Medium,Paid on Time
+A0680,56,Salaried,High School,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Full-Time,Frequent,Medium,Paid on Time
+A0681,41,Freelancer,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,High,Paid on Time
+A0682,30,Salaried,Bachelor's,Less than 1 year,More than 3 years,Mostly on time,Always on time,Always on time,Little or no savings,None,Frequent,High,Paid on Time
+A0683,44,Self-employed,Diploma,More than 5 years,More than 3 years,Frequently late,No payment history,Frequently late,Some savings,Part-Time,None,High,Default
+A0684,50,Student,High School,1–2 years,More than 3 years,Always on time,Frequently late,Always on time,Prefer not to say,None,Occasional,Medium,Paid on Time
+A0685,52,Student,PhD,Less than 1 year,More than 3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Frequent,High,Paid on Time
+A0686,50,Self-employed,Bachelor's,2–5 years,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Frequent,High,Paid on Time
+A0687,27,Unemployed,Diploma,Less than 1 year,More than 3 years,Always on time,No payment history,No payment history,Regular savings,None,Occasional,Medium,Paid on Time
+A0688,63,Student,Diploma,Less than 1 year,More than 3 years,Always on time,No payment history,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0689,34,Unemployed,Bachelor's,More than 5 years,More than 3 years,Mostly on time,Always on time,Mostly on time,Some savings,Part-Time,None,Medium,Late Payment
+A0690,32,Salaried,High School,2–5 years,More than 3 years,Always on time,Always on time,Mostly on time,Some savings,None,Occasional,Medium,Paid on Time
+A0691,47,Salaried,Master's,Less than 1 year,1–3 years,Mostly on time,Mostly on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0692,33,Self-employed,Bachelor's,1–2 years,More than 3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Frequent,High,Paid on Time
+A0693,59,Unemployed,High School,2–5 years,1–3 years,Frequently late,Always on time,Mostly on time,Regular savings,Part-Time,Occasional,Low,Late Payment
+A0694,26,Self-employed,Bachelor's,1–2 years,Less than 1 year,Always on time,Always on time,Always on time,Some savings,Part-Time,Frequent,Low,Paid on Time
+A0695,24,Self-employed,High School,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,Low,Paid on Time
+A0696,63,Student,High School,Less than 1 year,Less than 1 year,Always on time,Frequently late,Always on time,Some savings,None,None,Low,Late Payment
+A0697,20,Self-employed,High School,2–5 years,1–3 years,Mostly on time,Always on time,Mostly on time,Some savings,Part-Time,Frequent,High,Paid on Time
+A0698,34,Student,Bachelor's,No bank account,Less than 1 year,Frequently late,Always on time,Mostly on time,Some savings,None,Occasional,Low,Default
+A0699,48,Student,High School,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0700,58,Salaried,Master's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0701,44,Self-employed,Bachelor's,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,High,Paid on Time
+A0702,41,Student,Master's,More than 5 years,1–3 years,Always on time,Frequently late,No payment history,Little or no savings,None,Occasional,High,Paid on Time
+A0703,26,Salaried,Bachelor's,Less than 1 year,More than 3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0704,27,Salaried,High School,2–5 years,More than 3 years,Always on time,Always on time,Mostly on time,Little or no savings,Part-Time,Frequent,Medium,Paid on Time
+A0705,39,Self-employed,Bachelor's,No bank account,Less than 1 year,Always on time,Mostly on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0706,63,Student,Master's,2–5 years,More than 3 years,Always on time,Always on time,No payment history,Some savings,Full-Time,Frequent,High,Paid on Time
+A0707,57,Salaried,Diploma,More than 5 years,More than 3 years,Mostly on time,Always on time,Mostly on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0708,45,Salaried,High School,No bank account,1–3 years,Frequently late,Always on time,Always on time,Some savings,None,Occasional,Low,Late Payment
+A0709,37,Salaried,High School,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Prefer not to say,None,Frequent,High,Paid on Time
+A0710,36,Unemployed,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Mostly on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0711,27,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Mostly on time,Regular savings,Part-Time,None,High,Paid on Time
+A0712,27,Freelancer,High School,More than 5 years,1–3 years,Mostly on time,Mostly on time,Frequently late,Some savings,Part-Time,Frequent,Medium,Paid on Time
+A0713,45,Salaried,Bachelor's,2–5 years,1–3 years,No payment history,Mostly on time,Frequently late,Some savings,Full-Time,Frequent,High,Late Payment
+A0714,23,Self-employed,Bachelor's,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Low,Paid on Time
+A0715,34,Freelancer,Bachelor's,More than 5 years,More than 3 years,No payment history,Always on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0716,57,Unemployed,Diploma,2–5 years,1–3 years,Always on time,Frequently late,Mostly on time,Some savings,Part-Time,Occasional,High,Late Payment
+A0717,53,Salaried,Master's,1–2 years,Less than 1 year,Always on time,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0718,23,Salaried,High School,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Frequent,Medium,Paid on Time
+A0719,25,Salaried,High School,Less than 1 year,1–3 years,Mostly on time,Always on time,Always on time,Some savings,None,None,Medium,Paid on Time
+A0720,21,Salaried,High School,2–5 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,None,Medium,Paid on Time
+A0721,44,Self-employed,Bachelor's,1–2 years,More than 3 years,Always on time,Frequently late,Always on time,Little or no savings,None,Frequent,Medium,Default
+A0722,28,Unemployed,Bachelor's,More than 5 years,1–3 years,Frequently late,Always on time,Frequently late,Regular savings,Part-Time,Occasional,High,Default
+A0723,60,Other,Master's,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Full-Time,Frequent,Low,Paid on Time
+A0724,18,Other,PhD,More than 5 years,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,None,Occasional,Low,Paid on Time
+A0725,56,Salaried,Diploma,More than 5 years,More than 3 years,Mostly on time,Always on time,Mostly on time,Regular savings,Full-Time,Occasional,Low,Paid on Time
+A0726,47,Self-employed,Diploma,More than 5 years,1–3 years,No payment history,Always on time,Frequently late,Some savings,None,Occasional,High,Late Payment
+A0727,45,Salaried,Master's,2–5 years,1–3 years,Always on time,Mostly on time,Frequently late,Little or no savings,Full-Time,Occasional,High,Late Payment
+A0728,44,Salaried,Bachelor's,2–5 years,1–3 years,Mostly on time,Always on time,Mostly on time,Some savings,Full-Time,Frequent,Low,Paid on Time
+A0729,53,Salaried,High School,1–2 years,Less than 1 year,No payment history,Frequently late,Always on time,Little or no savings,Part-Time,Occasional,High,Default
+A0730,36,Salaried,Bachelor's,1–2 years,More than 3 years,Frequently late,Mostly on time,Always on time,Little or no savings,None,Frequent,Low,Default
+A0731,51,Student,Bachelor's,1–2 years,More than 3 years,No payment history,Always on time,No payment history,Regular savings,Part-Time,Occasional,Low,Paid on Time
+A0732,58,Salaried,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Mostly on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0733,58,Unemployed,Master's,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0734,19,Freelancer,High School,1–2 years,1–3 years,Always on time,Always on time,Frequently late,Regular savings,None,Frequent,Low,Paid on Time
+A0735,42,Freelancer,Bachelor's,1–2 years,More than 3 years,Mostly on time,Mostly on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0736,23,Salaried,Master's,More than 5 years,1–3 years,Always on time,Mostly on time,Always on time,Some savings,Part-Time,Frequent,Medium,Paid on Time
+A0737,38,Freelancer,Bachelor's,Less than 1 year,1–3 years,Frequently late,Mostly on time,Always on time,Little or no savings,None,Frequent,Medium,Default
+A0738,18,Salaried,Bachelor's,More than 5 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,Full-Time,Frequent,High,Paid on Time
+A0739,38,Salaried,High School,2–5 years,Less than 1 year,Always on time,Always on time,Always on time,Little or no savings,Part-Time,Occasional,Low,Paid on Time
+A0740,30,Salaried,High School,More than 5 years,More than 3 years,No payment history,Always on time,Mostly on time,Some savings,None,Frequent,Medium,Paid on Time
+A0741,45,Student,Bachelor's,2–5 years,More than 3 years,Mostly on time,Mostly on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0742,50,Salaried,Bachelor's,2–5 years,More than 3 years,No payment history,Always on time,Always on time,Regular savings,Part-Time,Occasional,High,Paid on Time
+A0743,33,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0744,56,Salaried,High School,2–5 years,More than 3 years,Frequently late,Mostly on time,Mostly on time,Some savings,Part-Time,Occasional,Medium,Late Payment
+A0745,38,Salaried,High School,1–2 years,Less than 1 year,Always on time,Always on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0746,54,Other,Master's,1–2 years,More than 3 years,Always on time,Frequently late,Frequently late,Regular savings,Part-Time,Frequent,High,Late Payment
+A0747,44,Freelancer,Diploma,2–5 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0748,41,Unemployed,High School,Less than 1 year,More than 3 years,Always on time,No payment history,Mostly on time,Little or no savings,None,Frequent,Medium,Default
+A0749,41,Student,Bachelor's,No bank account,More than 3 years,Always on time,Frequently late,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0750,62,Salaried,High School,1–2 years,Less than 1 year,Frequently late,Mostly on time,Frequently late,Prefer not to say,None,Occasional,High,Default
+A0751,51,Salaried,Bachelor's,1–2 years,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,Part-Time,Occasional,Low,Paid on Time
+A0752,31,Freelancer,High School,1–2 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0753,50,Student,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Frequently late,Regular savings,None,None,Low,Paid on Time
+A0754,30,Salaried,Bachelor's,2–5 years,More than 3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0755,35,Salaried,Bachelor's,1–2 years,1–3 years,Frequently late,Always on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0756,59,Salaried,Master's,Less than 1 year,Less than 1 year,Always on time,Always on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0757,25,Salaried,High School,No bank account,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,High,Paid on Time
+A0758,35,Self-employed,High School,Less than 1 year,1–3 years,Mostly on time,Always on time,Always on time,Regular savings,Full-Time,Occasional,Medium,Paid on Time
+A0759,62,Salaried,Diploma,No bank account,Less than 1 year,Frequently late,Always on time,Always on time,Some savings,None,Frequent,Medium,Late Payment
+A0760,18,Self-employed,PhD,2–5 years,1–3 years,Always on time,Always on time,Mostly on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0761,28,Freelancer,Bachelor's,Less than 1 year,More than 3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Frequent,Medium,Paid on Time
+A0762,39,Student,Bachelor's,More than 5 years,More than 3 years,Mostly on time,Always on time,Mostly on time,Little or no savings,None,None,Low,Paid on Time
+A0763,60,Other,Diploma,No bank account,1–3 years,Mostly on time,Always on time,Always on time,Regular savings,Full-Time,Occasional,High,Paid on Time
+A0764,52,Student,Bachelor's,More than 5 years,1–3 years,Always on time,Mostly on time,Frequently late,Some savings,None,None,Medium,Paid on Time
+A0765,20,Self-employed,Bachelor's,More than 5 years,Less than 1 year,Mostly on time,Always on time,Mostly on time,Some savings,None,Frequent,Low,Paid on Time
+A0766,51,Unemployed,Bachelor's,2–5 years,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0767,37,Salaried,Diploma,More than 5 years,Less than 1 year,Always on time,Frequently late,Mostly on time,Some savings,Full-Time,Occasional,Low,Paid on Time
+A0768,64,Salaried,Bachelor's,Less than 1 year,1–3 years,Always on time,Always on time,Mostly on time,Some savings,None,None,High,Paid on Time
+A0769,34,Unemployed,Bachelor's,Less than 1 year,1–3 years,Frequently late,Mostly on time,Always on time,Little or no savings,None,Occasional,High,Default
+A0770,58,Self-employed,High School,2–5 years,More than 3 years,Always on time,Always on time,Mostly on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0771,47,Self-employed,Bachelor's,No bank account,1–3 years,No payment history,Always on time,Mostly on time,Some savings,None,Frequent,Medium,Paid on Time
+A0772,54,Student,High School,More than 5 years,Less than 1 year,Mostly on time,Always on time,Mostly on time,Some savings,Part-Time,Frequent,Medium,Paid on Time
+A0773,59,Salaried,Bachelor's,More than 5 years,1–3 years,Mostly on time,Frequently late,Always on time,Some savings,None,Occasional,Medium,Late Payment
+A0774,49,Salaried,Master's,2–5 years,Less than 1 year,Mostly on time,Mostly on time,Frequently late,Little or no savings,Part-Time,Frequent,High,Late Payment
+A0775,27,Self-employed,High School,Less than 1 year,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Occasional,Low,Paid on Time
+A0776,52,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0777,62,Self-employed,Bachelor's,1–2 years,More than 3 years,No payment history,Always on time,Mostly on time,Some savings,Part-Time,Frequent,Medium,Paid on Time
+A0778,47,Salaried,Diploma,2–5 years,Less than 1 year,Mostly on time,Mostly on time,Always on time,Little or no savings,None,Frequent,Low,Paid on Time
+A0779,47,Salaried,Other,1–2 years,More than 3 years,Always on time,Always on time,Mostly on time,Some savings,None,Occasional,Medium,Paid on Time
+A0780,63,Student,High School,2–5 years,More than 3 years,Frequently late,Always on time,Mostly on time,Some savings,Full-Time,Occasional,High,Late Payment
+A0781,63,Unemployed,Bachelor's,2–5 years,Less than 1 year,Always on time,Frequently late,Always on time,Some savings,None,Frequent,Low,Late Payment
+A0782,24,Self-employed,Bachelor's,1–2 years,1–3 years,Mostly on time,Frequently late,Mostly on time,Regular savings,Full-Time,Occasional,Medium,Paid on Time
+A0783,44,Unemployed,High School,1–2 years,Less than 1 year,Mostly on time,Always on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0784,58,Self-employed,High School,1–2 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,Part-Time,Frequent,Medium,Paid on Time
+A0785,58,Unemployed,High School,No bank account,Less than 1 year,Always on time,Mostly on time,Always on time,Little or no savings,None,Occasional,Low,Default
+A0786,30,Student,Bachelor's,1–2 years,1–3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0787,23,Salaried,Bachelor's,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0788,28,Unemployed,High School,2–5 years,More than 3 years,Frequently late,Always on time,Always on time,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0789,34,Freelancer,High School,1–2 years,1–3 years,Frequently late,Always on time,Always on time,Little or no savings,None,Occasional,Low,Late Payment
+A0790,54,Unemployed,Bachelor's,2–5 years,Less than 1 year,No payment history,Frequently late,Always on time,Some savings,None,Occasional,Low,Default
+A0791,35,Freelancer,High School,1–2 years,1–3 years,Always on time,Always on time,Mostly on time,Little or no savings,None,None,High,Paid on Time
+A0792,56,Student,Bachelor's,2–5 years,1–3 years,Always on time,Mostly on time,Mostly on time,Some savings,None,Frequent,Medium,Paid on Time
+A0793,57,Other,Diploma,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,None,Low,Paid on Time
+A0794,18,Student,High School,No bank account,Less than 1 year,Always on time,Always on time,Always on time,Some savings,Full-Time,None,High,Paid on Time
+A0795,43,Self-employed,High School,No bank account,1–3 years,Always on time,Always on time,Mostly on time,Some savings,Full-Time,Frequent,Medium,Paid on Time
+A0796,36,Student,High School,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Full-Time,Occasional,High,Paid on Time
+A0797,26,Student,Bachelor's,1–2 years,1–3 years,Always on time,Mostly on time,Mostly on time,Regular savings,None,Occasional,Low,Paid on Time
+A0798,20,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Frequently late,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0799,42,Salaried,Bachelor's,No bank account,1–3 years,Always on time,Always on time,Always on time,Some savings,Full-Time,None,Low,Paid on Time
+A0800,19,Salaried,Master's,1–2 years,1–3 years,Mostly on time,Mostly on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0801,52,Self-employed,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Mostly on time,Little or no savings,None,Frequent,Low,Paid on Time
+A0802,33,Freelancer,Diploma,2–5 years,Less than 1 year,Always on time,Always on time,Always on time,Some savings,Part-Time,Frequent,Medium,Paid on Time
+A0803,60,Salaried,Diploma,Less than 1 year,1–3 years,Always on time,Always on time,Frequently late,Some savings,Part-Time,Frequent,High,Paid on Time
+A0804,57,Self-employed,PhD,1–2 years,1–3 years,Mostly on time,Always on time,Always on time,Regular savings,None,None,Medium,Paid on Time
+A0805,32,Salaried,High School,2–5 years,More than 3 years,Mostly on time,Always on time,Mostly on time,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0806,40,Self-employed,High School,Less than 1 year,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0807,22,Freelancer,Master's,Less than 1 year,1–3 years,Mostly on time,Always on time,Always on time,Some savings,None,None,Medium,Paid on Time
+A0808,27,Unemployed,High School,2–5 years,More than 3 years,Always on time,Mostly on time,Always on time,Some savings,None,Frequent,Low,Paid on Time
+A0809,20,Freelancer,High School,2–5 years,1–3 years,No payment history,Frequently late,No payment history,Some savings,Full-Time,Occasional,Medium,Default
+A0810,51,Student,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Low,Paid on Time
+A0811,32,Self-employed,Bachelor's,Less than 1 year,1–3 years,Mostly on time,Frequently late,Always on time,Some savings,None,None,Medium,Late Payment
+A0812,44,Salaried,Master's,More than 5 years,More than 3 years,Always on time,Frequently late,Mostly on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0813,25,Salaried,Bachelor's,More than 5 years,1–3 years,Mostly on time,Mostly on time,Frequently late,Little or no savings,None,Frequent,Medium,Default
+A0814,65,Salaried,Master's,More than 5 years,Less than 1 year,Always on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0815,62,Self-employed,Bachelor's,Less than 1 year,More than 3 years,Frequently late,Always on time,Always on time,Prefer not to say,None,Occasional,Medium,Default
+A0816,46,Freelancer,Bachelor's,2–5 years,More than 3 years,Mostly on time,Mostly on time,Always on time,Little or no savings,None,Frequent,High,Paid on Time
+A0817,55,Salaried,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Frequently late,Regular savings,None,Frequent,Medium,Paid on Time
+A0818,45,Salaried,Diploma,2–5 years,More than 3 years,Always on time,Frequently late,Frequently late,Little or no savings,None,Frequent,Low,Default
+A0819,38,Salaried,Diploma,Less than 1 year,1–3 years,Always on time,Frequently late,Always on time,Little or no savings,Full-Time,Occasional,Low,Late Payment
+A0820,31,Self-employed,Bachelor's,Less than 1 year,1–3 years,Always on time,Frequently late,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0821,36,Unemployed,Bachelor's,2–5 years,1–3 years,Frequently late,Always on time,Always on time,Little or no savings,Part-Time,Occasional,Medium,Default
+A0822,35,Freelancer,High School,1–2 years,Less than 1 year,Mostly on time,Mostly on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0823,22,Freelancer,Diploma,More than 5 years,1–3 years,Frequently late,Mostly on time,Always on time,Little or no savings,Part-Time,None,High,Default
+A0824,26,Self-employed,Master's,Less than 1 year,Less than 1 year,Always on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0825,51,Student,Bachelor's,No bank account,Less than 1 year,Mostly on time,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0826,60,Unemployed,Master's,More than 5 years,More than 3 years,Mostly on time,Always on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0827,36,Self-employed,Bachelor's,Less than 1 year,1–3 years,Always on time,Frequently late,Mostly on time,Some savings,None,Frequent,Low,Paid on Time
+A0828,56,Self-employed,High School,1–2 years,1–3 years,Frequently late,Mostly on time,Always on time,Little or no savings,None,Frequent,Medium,Default
+A0829,46,Self-employed,Diploma,No bank account,1–3 years,Always on time,Mostly on time,Always on time,Some savings,None,None,Medium,Paid on Time
+A0830,57,Self-employed,High School,2–5 years,More than 3 years,Always on time,Always on time,Mostly on time,Some savings,None,Occasional,High,Paid on Time
+A0831,21,Self-employed,Diploma,Less than 1 year,Less than 1 year,Always on time,Frequently late,Always on time,Little or no savings,Full-Time,Frequent,High,Late Payment
+A0832,20,Student,Bachelor's,2–5 years,1–3 years,Mostly on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,High,Paid on Time
+A0833,65,Salaried,Bachelor's,2–5 years,Less than 1 year,Mostly on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0834,56,Unemployed,High School,2–5 years,1–3 years,Frequently late,Frequently late,Mostly on time,Some savings,Part-Time,Frequent,Medium,Default
+A0835,24,Salaried,Bachelor's,1–2 years,1–3 years,Always on time,Frequently late,Always on time,Some savings,Full-Time,Occasional,High,Paid on Time
+A0836,43,Unemployed,Bachelor's,2–5 years,1–3 years,Mostly on time,Always on time,Mostly on time,Some savings,None,Frequent,Medium,Paid on Time
+A0837,27,Student,PhD,Less than 1 year,Less than 1 year,Frequently late,Always on time,Always on time,Regular savings,Part-Time,Occasional,Medium,Late Payment
+A0838,49,Salaried,Diploma,1–2 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Low,Paid on Time
+A0839,52,Self-employed,PhD,Less than 1 year,1–3 years,Always on time,Always on time,Mostly on time,Little or no savings,Full-Time,Occasional,High,Paid on Time
+A0840,51,Freelancer,High School,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0841,43,Salaried,High School,More than 5 years,More than 3 years,Frequently late,Always on time,Always on time,Little or no savings,None,Frequent,Medium,Late Payment
+A0842,63,Salaried,Bachelor's,1–2 years,1–3 years,Always on time,Mostly on time,No payment history,Little or no savings,None,Occasional,Medium,Late Payment
+A0843,38,Self-employed,High School,No bank account,More than 3 years,Always on time,Always on time,Mostly on time,Some savings,None,Frequent,Medium,Paid on Time
+A0844,53,Student,Diploma,No bank account,Less than 1 year,Always on time,Frequently late,Always on time,Little or no savings,None,Occasional,Low,Late Payment
+A0845,53,Self-employed,Bachelor's,No bank account,Less than 1 year,Mostly on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Low,Paid on Time
+A0846,55,Self-employed,PhD,2–5 years,1–3 years,Frequently late,Always on time,Always on time,Regular savings,None,None,Medium,Paid on Time
+A0847,27,Salaried,Master's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0848,42,Freelancer,Diploma,More than 5 years,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,Part-Time,Frequent,High,Paid on Time
+A0849,45,Self-employed,Bachelor's,2–5 years,More than 3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0850,53,Student,Master's,Less than 1 year,1–3 years,Frequently late,No payment history,Always on time,Some savings,None,Occasional,Medium,Default
+A0851,41,Unemployed,Bachelor's,No bank account,1–3 years,Mostly on time,Mostly on time,Always on time,Prefer not to say,Part-Time,Frequent,High,Default
+A0852,63,Unemployed,Other,2–5 years,1–3 years,Always on time,Frequently late,Mostly on time,Little or no savings,None,Frequent,Low,Default
+A0853,27,Freelancer,High School,More than 5 years,Less than 1 year,Frequently late,Always on time,Always on time,Little or no savings,None,None,Medium,Late Payment
+A0854,65,Salaried,Master's,More than 5 years,1–3 years,Mostly on time,Frequently late,Always on time,Little or no savings,None,None,Medium,Late Payment
+A0855,60,Freelancer,High School,More than 5 years,1–3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0856,18,Salaried,Bachelor's,Less than 1 year,1–3 years,Frequently late,Always on time,Frequently late,Regular savings,Full-Time,Frequent,High,Default
+A0857,38,Self-employed,PhD,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0858,65,Salaried,High School,2–5 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,Full-Time,Frequent,Medium,Paid on Time
+A0859,62,Self-employed,High School,1–2 years,1–3 years,Mostly on time,Always on time,Mostly on time,Some savings,None,None,Medium,Paid on Time
+A0860,62,Self-employed,Bachelor's,2–5 years,1–3 years,Always on time,Frequently late,Always on time,Little or no savings,None,Occasional,High,Paid on Time
+A0861,31,Self-employed,High School,Less than 1 year,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0862,18,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0863,55,Self-employed,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,None,Low,Paid on Time
+A0864,50,Salaried,Bachelor's,1–2 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0865,54,Freelancer,High School,1–2 years,More than 3 years,No payment history,Always on time,Mostly on time,Little or no savings,None,Frequent,High,Paid on Time
+A0866,37,Salaried,High School,More than 5 years,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,None,Frequent,High,Paid on Time
+A0867,53,Freelancer,Bachelor's,More than 5 years,More than 3 years,Frequently late,Mostly on time,Mostly on time,Regular savings,None,Occasional,High,Paid on Time
+A0868,61,Freelancer,Bachelor's,1–2 years,Less than 1 year,Always on time,Mostly on time,Always on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0869,39,Self-employed,High School,2–5 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0870,37,Salaried,Master's,No bank account,More than 3 years,Always on time,Always on time,Mostly on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0871,24,Freelancer,Bachelor's,More than 5 years,Less than 1 year,Always on time,Always on time,Mostly on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0872,65,Freelancer,Bachelor's,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Occasional,Low,Paid on Time
+A0873,52,Freelancer,Master's,Less than 1 year,Less than 1 year,Frequently late,Mostly on time,Always on time,Some savings,Part-Time,None,Medium,Default
+A0874,49,Self-employed,High School,2–5 years,1–3 years,Always on time,Mostly on time,Mostly on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0875,46,Salaried,Bachelor's,2–5 years,1–3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0876,47,Freelancer,High School,More than 5 years,More than 3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Frequent,Low,Paid on Time
+A0877,58,Student,High School,2–5 years,More than 3 years,Always on time,Mostly on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0878,45,Unemployed,Bachelor's,2–5 years,More than 3 years,Mostly on time,Always on time,Mostly on time,Some savings,None,Occasional,High,Paid on Time
+A0879,45,Salaried,Bachelor's,Less than 1 year,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Frequent,Low,Paid on Time
+A0880,47,Self-employed,PhD,1–2 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0881,58,Self-employed,Bachelor's,1–2 years,1–3 years,Always on time,Always on time,Mostly on time,Regular savings,Full-Time,Occasional,Medium,Paid on Time
+A0882,43,Salaried,Master's,More than 5 years,1–3 years,Mostly on time,Always on time,Always on time,Prefer not to say,None,Frequent,Medium,Paid on Time
+A0883,61,Self-employed,High School,2–5 years,1–3 years,Mostly on time,Always on time,Mostly on time,Little or no savings,None,Occasional,Low,Paid on Time
+A0884,42,Self-employed,Master's,Less than 1 year,1–3 years,No payment history,Always on time,Always on time,Regular savings,Part-Time,Occasional,Medium,Paid on Time
+A0885,44,Salaried,High School,More than 5 years,1–3 years,Mostly on time,Mostly on time,Mostly on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0886,43,Self-employed,Bachelor's,More than 5 years,1–3 years,Frequently late,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0887,24,Salaried,Bachelor's,More than 5 years,1–3 years,Mostly on time,Mostly on time,Always on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0888,33,Salaried,Bachelor's,2–5 years,More than 3 years,Always on time,Mostly on time,Mostly on time,Some savings,None,Frequent,Low,Paid on Time
+A0889,47,Salaried,Master's,Less than 1 year,More than 3 years,Frequently late,Always on time,Always on time,Little or no savings,None,Occasional,High,Default
+A0890,29,Unemployed,Bachelor's,Less than 1 year,1–3 years,Always on time,Frequently late,Always on time,Some savings,Full-Time,Frequent,High,Default
+A0891,61,Self-employed,Bachelor's,1–2 years,1–3 years,Mostly on time,Frequently late,Frequently late,Some savings,Part-Time,Occasional,Low,Default
+A0892,64,Salaried,Master's,More than 5 years,More than 3 years,Always on time,Always on time,Frequently late,Some savings,None,Occasional,High,Paid on Time
+A0893,34,Freelancer,Bachelor's,2–5 years,More than 3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0894,63,Self-employed,High School,1–2 years,1–3 years,Always on time,Mostly on time,Mostly on time,Some savings,None,Occasional,High,Paid on Time
+A0895,36,Salaried,Master's,2–5 years,More than 3 years,Always on time,Mostly on time,Always on time,Some savings,Part-Time,Occasional,High,Paid on Time
+A0896,56,Salaried,Diploma,2–5 years,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Low,Paid on Time
+A0897,43,Self-employed,Master's,More than 5 years,1–3 years,Mostly on time,Always on time,Always on time,Some savings,Full-Time,Occasional,Low,Paid on Time
+A0898,42,Salaried,PhD,1–2 years,1–3 years,Always on time,Always on time,Mostly on time,Little or no savings,Part-Time,Occasional,Medium,Paid on Time
+A0899,58,Unemployed,Master's,More than 5 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,Medium,Paid on Time
+A0900,52,Student,Bachelor's,No bank account,More than 3 years,Always on time,Always on time,Always on time,Little or no savings,None,None,Low,Paid on Time
+A0901,32,Freelancer,Bachelor's,No bank account,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,None,None,Medium,Paid on Time
+A0902,55,Freelancer,Bachelor's,Less than 1 year,More than 3 years,Always on time,Mostly on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0903,55,Salaried,Bachelor's,2–5 years,1–3 years,Frequently late,Always on time,Frequently late,Little or no savings,None,Occasional,Medium,Default
+A0904,44,Self-employed,Bachelor's,Less than 1 year,1–3 years,Always on time,Frequently late,Always on time,Little or no savings,None,Frequent,Medium,Late Payment
+A0905,37,Freelancer,High School,2–5 years,Less than 1 year,Always on time,Frequently late,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0906,39,Freelancer,Bachelor's,Less than 1 year,More than 3 years,Mostly on time,Always on time,Always on time,Some savings,None,Frequent,Medium,Paid on Time
+A0907,57,Salaried,Bachelor's,1–2 years,Less than 1 year,Always on time,Always on time,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0908,64,Salaried,Master's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0909,43,Freelancer,High School,More than 5 years,Less than 1 year,Always on time,Mostly on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0910,41,Salaried,Bachelor's,1–2 years,1–3 years,Mostly on time,Mostly on time,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0911,64,Self-employed,Bachelor's,1–2 years,More than 3 years,Always on time,Mostly on time,Mostly on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0912,58,Salaried,Bachelor's,1–2 years,1–3 years,Always on time,Frequently late,Always on time,Prefer not to say,Part-Time,Occasional,Low,Paid on Time
+A0913,55,Salaried,High School,Less than 1 year,1–3 years,Mostly on time,Mostly on time,Always on time,Some savings,None,Frequent,Low,Paid on Time
+A0914,63,Freelancer,PhD,1–2 years,More than 3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Frequent,Low,Paid on Time
+A0915,34,Salaried,Bachelor's,No bank account,Less than 1 year,Always on time,Always on time,Always on time,Regular savings,None,None,Medium,Paid on Time
+A0916,20,Unemployed,Master's,1–2 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Occasional,High,Paid on Time
+A0917,28,Student,Master's,Less than 1 year,More than 3 years,Mostly on time,No payment history,Mostly on time,Little or no savings,None,Frequent,Medium,Late Payment
+A0918,59,Salaried,High School,2–5 years,1–3 years,Mostly on time,Mostly on time,Frequently late,Little or no savings,None,Frequent,Medium,Default
+A0919,42,Salaried,High School,1–2 years,1–3 years,Always on time,Mostly on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0920,54,Salaried,Bachelor's,Less than 1 year,Less than 1 year,Always on time,Mostly on time,Mostly on time,Little or no savings,None,None,Medium,Paid on Time
+A0921,38,Unemployed,Bachelor's,Less than 1 year,Less than 1 year,No payment history,Always on time,Frequently late,Little or no savings,None,None,Low,Default
+A0922,19,Self-employed,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Frequent,High,Paid on Time
+A0923,55,Freelancer,High School,2–5 years,Less than 1 year,Always on time,Mostly on time,Mostly on time,Some savings,None,None,Low,Paid on Time
+A0924,25,Unemployed,High School,1–2 years,1–3 years,No payment history,Always on time,Always on time,Some savings,None,None,Medium,Paid on Time
+A0925,32,Other,High School,2–5 years,1–3 years,Always on time,Frequently late,Always on time,Some savings,None,Frequent,High,Paid on Time
+A0926,27,Salaried,Bachelor's,No bank account,1–3 years,Always on time,Mostly on time,Always on time,Some savings,Part-Time,Occasional,High,Paid on Time
+A0927,51,Unemployed,Bachelor's,More than 5 years,Less than 1 year,Frequently late,Always on time,Always on time,Some savings,None,Occasional,Low,Late Payment
+A0928,19,Salaried,Master's,No bank account,More than 3 years,Frequently late,Always on time,Always on time,Some savings,None,Frequent,High,Late Payment
+A0929,32,Salaried,Other,Less than 1 year,1–3 years,No payment history,Frequently late,Always on time,Regular savings,Part-Time,Occasional,Medium,Default
+A0930,26,Salaried,Bachelor's,More than 5 years,More than 3 years,Always on time,Always on time,Mostly on time,Some savings,None,Occasional,Low,Paid on Time
+A0931,27,Salaried,High School,Less than 1 year,1–3 years,Frequently late,Always on time,Always on time,Regular savings,Part-Time,Frequent,Low,Late Payment
+A0932,54,Other,Diploma,More than 5 years,1–3 years,Always on time,Always on time,Mostly on time,Little or no savings,Part-Time,Occasional,Medium,Paid on Time
+A0933,30,Unemployed,High School,2–5 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,Full-Time,Frequent,Low,Paid on Time
+A0934,31,Self-employed,Diploma,1–2 years,More than 3 years,Mostly on time,Always on time,Always on time,Prefer not to say,None,Frequent,Low,Paid on Time
+A0935,53,Self-employed,High School,More than 5 years,More than 3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Frequent,Low,Paid on Time
+A0936,63,Salaried,Master's,1–2 years,1–3 years,No payment history,Always on time,Mostly on time,Some savings,None,None,Low,Paid on Time
+A0937,30,Salaried,Bachelor's,2–5 years,Less than 1 year,Mostly on time,Always on time,Mostly on time,Some savings,None,Frequent,Medium,Paid on Time
+A0938,51,Salaried,High School,2–5 years,1–3 years,Frequently late,Always on time,Frequently late,Little or no savings,None,None,Medium,Default
+A0939,30,Salaried,PhD,More than 5 years,1–3 years,Frequently late,No payment history,Frequently late,Some savings,None,None,High,Default
+A0940,37,Salaried,Bachelor's,2–5 years,Less than 1 year,Mostly on time,Always on time,Always on time,Regular savings,Full-Time,None,Low,Paid on Time
+A0941,43,Student,Bachelor's,1–2 years,Less than 1 year,Frequently late,Always on time,Frequently late,Regular savings,Full-Time,Frequent,Medium,Late Payment
+A0942,46,Salaried,Diploma,1–2 years,1–3 years,Always on time,Always on time,Mostly on time,Some savings,None,Occasional,Low,Paid on Time
+A0943,52,Freelancer,Bachelor's,No bank account,More than 3 years,Frequently late,Always on time,Always on time,Prefer not to say,None,None,High,Default
+A0944,63,Freelancer,Bachelor's,2–5 years,1–3 years,Always on time,No payment history,Always on time,Some savings,None,None,Medium,Paid on Time
+A0945,62,Unemployed,Bachelor's,2–5 years,More than 3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Occasional,Low,Paid on Time
+A0946,24,Freelancer,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,No payment history,Little or no savings,None,Occasional,Medium,Paid on Time
+A0947,56,Self-employed,Master's,1–2 years,1–3 years,Mostly on time,Mostly on time,Frequently late,Some savings,None,Occasional,Medium,Late Payment
+A0948,44,Student,Bachelor's,No bank account,1–3 years,Always on time,Always on time,Mostly on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0949,45,Freelancer,High School,2–5 years,Less than 1 year,Frequently late,Always on time,Frequently late,Little or no savings,Part-Time,Occasional,Medium,Default
+A0950,33,Salaried,Bachelor's,1–2 years,More than 3 years,Mostly on time,Mostly on time,Always on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0951,40,Student,High School,1–2 years,Less than 1 year,Always on time,Always on time,Mostly on time,Prefer not to say,None,Frequent,Low,Paid on Time
+A0952,57,Self-employed,High School,1–2 years,1–3 years,Mostly on time,Always on time,Mostly on time,Little or no savings,Part-Time,None,Medium,Paid on Time
+A0953,25,Salaried,Diploma,2–5 years,1–3 years,Always on time,Always on time,Always on time,Some savings,None,Frequent,Medium,Paid on Time
+A0954,34,Salaried,Diploma,1–2 years,Less than 1 year,Always on time,Mostly on time,Mostly on time,Little or no savings,Part-Time,Occasional,Low,Paid on Time
+A0955,38,Other,Bachelor's,No bank account,1–3 years,Mostly on time,Always on time,Always on time,Little or no savings,Full-Time,Frequent,High,Late Payment
+A0956,18,Salaried,PhD,More than 5 years,1–3 years,Always on time,Always on time,No payment history,Regular savings,None,Occasional,Medium,Paid on Time
+A0957,54,Student,PhD,2–5 years,More than 3 years,No payment history,Mostly on time,Always on time,Some savings,Full-Time,None,Medium,Late Payment
+A0958,26,Salaried,Master's,2–5 years,More than 3 years,Mostly on time,Always on time,Frequently late,Prefer not to say,Part-Time,Occasional,High,Paid on Time
+A0959,56,Salaried,Diploma,2–5 years,More than 3 years,Frequently late,Always on time,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0960,19,Self-employed,Bachelor's,No bank account,1–3 years,Frequently late,Always on time,Mostly on time,Regular savings,Part-Time,Occasional,Low,Late Payment
+A0961,64,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Always on time,Mostly on time,Some savings,Part-Time,Frequent,High,Paid on Time
+A0962,44,Salaried,Bachelor's,2–5 years,1–3 years,Always on time,Mostly on time,Mostly on time,Some savings,None,None,Medium,Paid on Time
+A0963,51,Self-employed,High School,Less than 1 year,More than 3 years,Mostly on time,No payment history,Mostly on time,Regular savings,Full-Time,Occasional,Medium,Paid on Time
+A0964,62,Unemployed,Diploma,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,None,Medium,Paid on Time
+A0965,29,Salaried,High School,1–2 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,Full-Time,Frequent,Medium,Paid on Time
+A0966,18,Unemployed,Bachelor's,No bank account,1–3 years,Always on time,Frequently late,Always on time,Little or no savings,Full-Time,Frequent,Medium,Default
+A0967,29,Self-employed,PhD,Less than 1 year,More than 3 years,Always on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0968,57,Salaried,Bachelor's,More than 5 years,More than 3 years,Frequently late,Always on time,Always on time,Some savings,None,Occasional,Low,Late Payment
+A0969,49,Salaried,High School,2–5 years,1–3 years,Always on time,Mostly on time,Mostly on time,Little or no savings,Full-Time,Occasional,High,Paid on Time
+A0970,49,Salaried,Bachelor's,1–2 years,More than 3 years,Frequently late,Mostly on time,Frequently late,Little or no savings,Part-Time,Frequent,Medium,Default
+A0971,60,Freelancer,Master's,2–5 years,More than 3 years,Always on time,Mostly on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0972,42,Salaried,High School,Less than 1 year,1–3 years,Mostly on time,Always on time,No payment history,Little or no savings,Part-Time,Occasional,Medium,Late Payment
+A0973,20,Salaried,High School,More than 5 years,More than 3 years,Mostly on time,Always on time,Always on time,Regular savings,None,None,Medium,Paid on Time
+A0974,61,Student,Bachelor's,2–5 years,Less than 1 year,Always on time,Mostly on time,Frequently late,Regular savings,Full-Time,None,Medium,Paid on Time
+A0975,22,Freelancer,Bachelor's,2–5 years,1–3 years,Always on time,Always on time,Frequently late,Regular savings,None,None,Medium,Paid on Time
+A0976,29,Other,Master's,1–2 years,More than 3 years,Always on time,Always on time,Always on time,Some savings,Full-Time,Occasional,Medium,Paid on Time
+A0977,58,Salaried,PhD,2–5 years,More than 3 years,Always on time,Always on time,Mostly on time,Some savings,Part-Time,Frequent,Low,Paid on Time
+A0978,62,Salaried,Bachelor's,1–2 years,More than 3 years,Always on time,Mostly on time,Always on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0979,65,Salaried,Bachelor's,More than 5 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Occasional,Low,Paid on Time
+A0980,49,Salaried,Bachelor's,No bank account,1–3 years,Always on time,Always on time,Always on time,Regular savings,Part-Time,Frequent,Medium,Paid on Time
+A0981,41,Self-employed,High School,2–5 years,Less than 1 year,Frequently late,Mostly on time,Always on time,Regular savings,None,Occasional,Low,Late Payment
+A0982,29,Salaried,High School,2–5 years,1–3 years,Always on time,Always on time,Always on time,Regular savings,None,Occasional,Medium,Paid on Time
+A0983,46,Salaried,High School,2–5 years,1–3 years,Always on time,Frequently late,Always on time,Some savings,None,Occasional,Medium,Paid on Time
+A0984,41,Salaried,Master's,2–5 years,Less than 1 year,Always on time,Always on time,Always on time,Some savings,Full-Time,Occasional,High,Paid on Time
+A0985,52,Salaried,Bachelor's,More than 5 years,More than 3 years,Mostly on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Medium,Paid on Time
+A0986,47,Self-employed,Master's,1–2 years,More than 3 years,Always on time,Always on time,Mostly on time,Prefer not to say,None,Frequent,High,Paid on Time
+A0987,65,Salaried,Master's,Less than 1 year,1–3 years,Mostly on time,Always on time,Always on time,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0988,64,Self-employed,PhD,1–2 years,1–3 years,Mostly on time,Always on time,Always on time,Regular savings,Part-Time,Occasional,Low,Paid on Time
+A0989,64,Freelancer,Bachelor's,More than 5 years,1–3 years,Mostly on time,Always on time,Always on time,Regular savings,None,Frequent,Medium,Paid on Time
+A0990,57,Self-employed,High School,1–2 years,More than 3 years,Mostly on time,Frequently late,Always on time,Little or no savings,None,Frequent,Medium,Paid on Time
+A0991,29,Salaried,Bachelor's,2–5 years,Less than 1 year,Always on time,Mostly on time,Always on time,Some savings,None,None,High,Paid on Time
+A0992,57,Self-employed,Bachelor's,No bank account,Less than 1 year,Always on time,Always on time,Frequently late,Little or no savings,None,Frequent,Low,Late Payment
+A0993,40,Salaried,High School,Less than 1 year,More than 3 years,Always on time,Frequently late,Always on time,Little or no savings,None,Occasional,Medium,Paid on Time
+A0994,27,Salaried,High School,More than 5 years,1–3 years,Mostly on time,Mostly on time,Mostly on time,Regular savings,Part-Time,Frequent,High,Paid on Time
+A0995,27,Unemployed,High School,No bank account,More than 3 years,Always on time,Always on time,Mostly on time,Some savings,Full-Time,Occasional,Medium,Late Payment
+A0996,19,Unemployed,PhD,2–5 years,More than 3 years,No payment history,Frequently late,Always on time,Regular savings,None,Occasional,High,Default
+A0997,60,Salaried,Bachelor's,1–2 years,More than 3 years,Mostly on time,Always on time,No payment history,Some savings,Part-Time,Occasional,Low,Paid on Time
+A0998,50,Salaried,Bachelor's,More than 5 years,1–3 years,Frequently late,Always on time,Always on time,Some savings,None,Occasional,High,Paid on Time
+A0999,65,Other,Bachelor's,2–5 years,1–3 years,Always on time,Frequently late,Frequently late,Regular savings,None,Frequent,High,Late Payment
+A1000,62,Freelancer,Bachelor's,1–2 years,More than 3 years,Frequently late,Mostly on time,Always on time,Some savings,Full-Time,Occasional,Medium,Late Payment

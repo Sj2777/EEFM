@@ -1,0 +1,134 @@
+{
+  "model_type": "RandomForestClassifier",
+  "model_version": "rf-v1-202610162044",
+  "trained_at": "2026-10-16T20:44:52.624863Z",
+  "dataset_path": "D:\\techrush2\\anti\\data\\Synthetic_Credit_Scoring_Dataset.csv",
+  "dataset_hash": "b872222ed289b45a",
+  "total_records": 1000,
+  "train_records": 800,
+  "test_records": 200,
+  "random_seed": 42,
+  "features": [
+    "Employment_Status",
+    "Bank_Account_Tenure",
+    "Residential_Stability",
+    "Rent_Payment_History",
+    "Utility_Payment_History",
+    "Telecommunications_Payment_History",
+    "Savings_Pattern",
+    "Gig_Economy_Participation"
+  ],
+  "excluded_features": [
+    "Online_Shopping_Behavior",
+    "Social_Media_Footprint",
+    "Age",
+    "Educational_Background",
+    "Profile_ID"
+  ],
+  "classes": [
+    "Default",
+    "Late Payment",
+    "Paid on Time"
+  ],
+  "metrics": {
+    "accuracy": 0.78,
+    "macro_precision": 0.5476,
+    "macro_recall": 0.5623,
+    "macro_f1": 0.5544,
+    "weighted_precision": 0.7912,
+    "weighted_recall": 0.78,
+    "weighted_f1": 0.7853,
+    "confusion_matrix": [
+      [
+        11,
+        9,
+        0
+      ],
+      [
+        7,
+        6,
+        12
+      ],
+      [
+        4,
+        12,
+        139
+      ]
+    ],
+    "classification_report": {
+      "Default": {
+        "precision": 0.5,
+        "recall": 0.55,
+        "f1-score": 0.5238095238095238,
+        "support": 20.0
+      },
+      "Late Payment": {
+        "precision": 0.2222222222222222,
+        "recall": 0.24,
+        "f1-score": 0.23076923076923078,
+        "support": 25.0
+      },
+      "Paid on Time": {
+        "precision": 0.9205298013245033,
+        "recall": 0.896774193548387,
+        "f1-score": 0.9084967320261438,
+        "support": 155.0
+      },
+      "accuracy": 0.78,
+      "macro avg": {
+        "precision": 0.5475840078489086,
+        "recall": 0.562258064516129,
+        "f1-score": 0.5543584955349661,
+        "support": 200.0
+      },
+      "weighted avg": {
+        "precision": 0.7911883738042679,
+        "recall": 0.78,
+        "f1-score": 0.7853120735473677,
+        "support": 200.0
+      }
+    },
+    "feature_importance": {
+      "Rent_Payment_History": 53.7,
+      "Utility_Payment_History": 42.9,
+      "Savings_Pattern": 2.8,
+      "Residential_Stability": 0.5,
+      "Employment_Status": 0.0,
+      "Bank_Account_Tenure": 0.0,
+      "Telecommunications_Payment_History": 0.0,
+      "Gig_Economy_Participation": 0.0
+    }
+  },
+  "score_mapping_config": {
+    "min_score": 300,
+    "max_score": 900,
+    "weights": {
+      "Paid on Time": 1.0,
+      "Late Payment": 0.45,
+      "Default": 0.05
+    },
+    "risk_categories": {
+      "Good": {
+        "min": 700,
+        "max": 900,
+        "color": "emerald"
+      },
+      "Fair": {
+        "min": 600,
+        "max": 699,
+        "color": "blue"
+      },
+      "Poor": {
+        "min": 500,
+        "max": 599,
+        "color": "amber"
+      },
+      "High Risk": {
+        "min": 300,
+        "max": 499,
+        "color": "rose"
+      }
+    }
+  },
+  "disclaimer": "AltScore is an educational prototype using synthetic data. Scores and predictions are experimental and have not been validated for real-world lending decisions."
+}
